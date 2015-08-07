@@ -1,0 +1,1483 @@
+April ; Apr : Aprilie : time 
+China ; People's Republic of China ; mainland China ; Communist China ; Red China ; PRC ; Cathay : China ; China : country 
+Chinese : Chineză : language 
+Czech Republic : Republica Cehă ; Republica Cehă : country 
+December ; Dec : Decembrie : time 
+Earth ; earth ; world ; globe : Pământ : nature 
+English ; English language : Engleză : language 
+February ; Feb : Februarie : time 
+France ; French Republic : Republica Franceză ; Republica Franceză : country 
+French : Franceză : language 
+Friday ; Fri : Vineri : time 
+German ; High German ; German language : Germană : linguistics 
+Germany ; Federal Republic of Germany ; Deutschland ; FRG : Republica Federală Germană ; Republica Federală Germană : country 
+Hindi : Hindi : language 
+India ; Republic of India ; Bharat : Republica India ; Republica India : country 
+Italian : Italiană : language 
+Italy ; Italian Republic ; Italia : Italia ; Italia : country 
+January ; Jan : Ianuarie : time 
+Japan ; Nippon ; Nihon : Japonia ; Japonia : country 
+Japanese : Japoneză : language 
+July : Iulie : time 
+June : Iunie : time 
+Monday ; Mon : Luni : time 
+Moon ; moon : lună : nature 
+November ; Nov : Noiembrie : time 
+October ; Oct : Octombrie : time 
+Russian : Rusă : language 
+Spain ; Kingdom of Spain ; Espana : Regatul Spaniei ; Regatul Spaniei : country 
+Spanish : Spaniolă : language 
+Sunday ; Lord's Day ; Dominicus ; Sun : Duminică : time 
+Thursday ; Th : Joi : time 
+United Kingdom ; UK ; U.K. ; Britain ; United Kingdom of Great Britain and Northern Ireland ; Great Britain : Regatul Unit : country 
+United States ; United States of America ; America ; the States ; US ; U.S. ; USA ; U.S.A. : Statele Unite ale Americii : country 
+Wednesday ; Midweek ; Wed : miercuri : time 
+able : capabil : adjective 
+about ; almost ; most ; nearly ; near ; nigh ; virtually ; well-nigh : aproape : adverb 
+above ; higher up ; in a higher place ; to a higher place : deasupra : adverb 
+abrupt ; precipitous ; sharp : abrupt : adjective 
+accept ; take ; have : accepta : verb 
+accident : accident : transport 
+account ; business relationship : cont : business 
+acid : acid : adjective 
+acid : acid : material 
+acme ; height ; elevation ; peak ; pinnacle ; summit ; superlative ; meridian ; tiptop ; top : culme : abstract 
+act ; deed ; human action ; human activity : act : abstract 
+action : acţiune : mathematics 
+action ; activity ; activeness : activitate : mathematics 
+actor ; histrion ; player ; thespian ; role player : actor : profession 
+actually ; really : de fapt : adverb 
+acuate ; acute ; sharp ; needlelike : ascuţit : adjective 
+ad ; advertisement ; advertizement ; advertising ; advertizing ; advert : publicitate : business 
+addition ; add-on ; improver : adaos : abstract 
+address : adresă : abstract 
+adept ; expert ; good ; practiced ; proficient ; skillful ; skilful : expert : adjective 
+adjacent ; next ; side by side : învecinat : adjective 
+adjective : adjectiv : linguistics 
+admit ; acknowledge : recunoaşte : verb 
+advantage ; reward : avantaj : abstract 
+advantage ; vantage : avantaj : abstract 
+advice : sfat : communication 
+again ; once again ; once more ; over again : din nou : adverb 
+against : pe : preposition 
+age : vârstă : time 
+agree ; hold ; concur ; concord : a fi de acord : verb 
+agreement ; understanding : înţelegere : business 
+aid ; assist ; assistance ; help : ajutor : communication 
+air : aer : nature 
+airplane ; aeroplane ; plane : avion : object 
+airport ; airdrome ; aerodrome ; drome : aerodrom : city 
+alive ; live : viu : adjective 
+all : tot : adjective 
+alone ; lone ; lonely ; solitary : solitar : adjective 
+along : de-a lungul : adverb 
+already : deja : adverb 
+alternatively ; instead ; or else : în schimb : adverb 
+altitude ; height : altitudine : abstract 
+always ; ever ; e'er : mereu : adverb 
+among ; amongst ; amid ; amidst : printre : preposition 
+amount : cantitate : abstract 
+and : plus : conjunction 
+angle : unghi : mathematics 
+angry : mânios : adjective 
+animal ; animate being ; beast ; brute ; creature ; fauna : animal : nature 
+announce ; denote : anunţa : verb 
+announcement ; proclamation ; annunciation ; declaration : anunţ : communication 
+another ; some other : alt : adjective 
+answer ; reply ; respond : a replica : verb 
+answer ; reply ; response : răspuns : communication 
+ant ; emmet ; pismire : furnică : animal 
+anteroom ; antechamber ; entrance hall ; hall ; foyer ; lobby ; vestibule : foaier : house 
+any ; whatever ; whatsoever : nici un : adjective 
+anything : orice : pronoun 
+apartment ; flat : apartament : society 
+apparel ; wearing apparel ; dress ; clothes : rochie : clothes 
+apple : măr : food 
+approximately ; about ; close to ; just about ; some ; roughly ; more or less ; around ; or so : aproximativ : adverb 
+area ; expanse ; surface area : arie : mathematics 
+argent ; silver ; silvery ; silverish : argint : adjective 
+argue ; reason : a pleda (pentru : verb 
+argument ; statement : argument : communication 
+arm : braţ : anatomy 
+army ; regular army ; ground forces : armată : society 
+arrangement ; organization ; organisation ; system : organizaţie : society 
+arrive ; make it ; get in ; go far : a sosi : verb 
+art ; fine art : artă : art 
+artist ; creative person : artist (plastic) : profession 
+ask ; inquire ; enquire : a cere : verb 
+aspect : aspect : abstract 
+assail ; assault ; set on ; attack : ataca : verb 
+astute ; sharp ; shrewd : subtil : adjective 
+at : la : preposition 
+attack ; onslaught ; onset ; onrush : atac : abstract 
+attempt ; effort ; endeavor ; endeavour ; try : încercare : abstract 
+attention ; attending : atenţie : communication 
+attitude ; mental attitude : atitudine : abstract 
+audio ; sound : sunet : abstract 
+authority ; authorization ; authorisation ; potency ; dominance ; say-so : autoritate : society 
+automatic : automat : adjective 
+available : disponibil : adjective 
+avoid : evita : verb 
+awake : treaz : adjective 
+baby ; babe ; infant : bebeluş : family 
+bad : rău : adjective 
+bag : sacoşă : object 
+bag ; handbag ; pocketbook ; purse : poşetă : clothes 
+bag ; traveling bag ; travelling bag ; grip ; suitcase : valiza : clothes 
+balance : echilibru : physics 
+ball : minge : object 
+bank : mal : nature 
+barbarous ; brutal ; cruel ; fell ; roughshod ; savage ; vicious : crud : adjective 
+bargain ; deal : târg : business 
+base ; base of operations : bază : society 
+baseball ; baseball game : baseball : sports 
+basket ; handbasket : cos : object 
+bath : baie : house 
+bathroom ; bath : baie : house 
+be ; live : a trăi : verb 
+beach : plajă : nature 
+beak ; bill ; neb ; nib ; pecker : cioc : anatomy 
+bear : a purta : verb 
+bear : urs : animal 
+beautiful : frumos : adjective 
+because : deoarece : conjunction 
+become ; go ; get : a deveni : verb 
+bed : pat : house 
+bedroom ; sleeping room ; sleeping accommodation ; chamber ; bedchamber : dormitor : house 
+bee : albină : animal 
+beer : bere : food 
+beginning ; commencement ; first ; outset ; get-go ; start ; kickoff ; starting time ; showtime ; offset : început : abstract 
+beginning ; origin ; root ; rootage ; source : izvor : transport 
+behind : în spate : adverb 
+being ; beingness ; existence : existenţă : society 
+believe : a crede : verb 
+bell : clopot : object 
+bend ; curve : curbă : transport 
+besides ; too ; also ; likewise ; as well : de asemenea : adverb 
+bespeak ; betoken ; indicate ; point ; signal : a indica : verb 
+better : mai bine : adjective 
+better ; improve ; amend ; ameliorate ; meliorate : ameliora : verb 
+between ; betwixt : între : adverb 
+beverage ; drink ; drinkable ; potable : băutură : food 
+bicycle ; bike ; wheel ; cycle : bicicletã : object 
+bill ; account ; invoice : facturã : business 
+bill ; note ; government note ; bank bill ; banker's bill ; bank note ; banknote ; Federal Reserve note ; greenback : bancnota : business 
+biology ; biological science : biologie : science 
+bird : pasăre : animal 
+birth ; nativity ; nascency ; nascence : naştere : nature 
+birthday : zi de naştere : family 
+bit ; chip ; flake ; fleck ; scrap : bucăţică : object 
+bite : muşcătură : medicine 
+bitter : amar : adjective 
+black : negru : adjective 
+blade : lamă : object 
+blessing ; approval ; approving : aprobare : communication 
+blood : sânge : anatomy 
+blow : şoc : abstract 
+blue ; bluish ; blueish : albăstrui : color 
+blueprint ; design ; pattern : model : object 
+board : scândură : object 
+boat : barcă : object 
+bone ; os : os : anatomy 
+book ; volume : carte : object 
+boot : gheată : clothes 
+boring ; deadening ; dull ; ho-hum ; irksome ; slow ; tedious ; tiresome ; wearisome : plicticos : adjective 
+bottle : sticlã : food 
+box : cutie : object 
+brain ; encephalon : creier : anatomy 
+branch : ramură : nature 
+brand ; make : marcă : abstract 
+bread ; breadstuff ; staff of life : pâine : food 
+break : a rupe : verb 
+breakfast : micul dejun : food 
+breast ; chest : piept : anatomy 
+breath : răsuflare : anatomy 
+brick : cărămidă : house 
+bridge ; span : a construi un pod peste : object 
+bright ; brilliant ; vivid : clar : adjective 
+broken : spart : adjective 
+brother ; blood brother : frate : family 
+brow ; forehead : frunte : anatomy 
+brown ; brownish ; chocolate-brown ; dark-brown : maro : color 
+brush : perie : object 
+brusque ; brusk ; curt ; short : brusc : adjective 
+building ; edifice : clădire : city 
+bulk ; mass ; volume : masă : physics 
+bus ; autobus ; coach ; charabanc ; double-decker ; jitney ; motorbus ; motorcoach ; omnibus ; passenger vehicle : autobuz : transport 
+business ; concern ; business concern ; business organization ; business organisation : comerţ : business 
+businessman ; man of affairs : om de afaceri : profession 
+butter : unt : food 
+buy ; purchase : a cumpãra : verb 
+by ; past : pe : adverb 
+cake : prăjitură : food 
+calculator ; reckoner ; figurer ; estimator ; computer : calculator : device 
+calendar month ; month : lună : time 
+call ; phone call ; telephone call : apel : communication 
+call ; telephone ; call up ; phone ; ring : a chema : verb 
+campaign ; cause ; crusade ; drive ; movement ; effort : campanie : abstract 
+capital : capitală : society 
+capital ; capital letter ; uppercase ; upper-case letter ; majuscule : majusculă : linguistics 
+capital ; working capital : capital : business 
+car ; auto ; automobile ; machine ; motorcar : automobil : transport 
+carbohydrate ; saccharide ; sugar : hidrocarbonat : food 
+card : carte (de joc) : object 
+cardinal ; central ; fundamental ; key ; primal : principal : adjective 
+case ; instance ; example : caz : abstract 
+castle : castel : city 
+cat ; true cat : pisică : animal 
+cause : cauză : abstract 
+cell : celulă : anatomy 
+cell ; jail cell ; prison cell : celulă : society 
+cellular telephone ; cellular phone ; cellphone ; cell ; mobile phone : telefon celular : device 
+center ; centre ; middle ; heart ; eye : mijloc : mathematics 
+center ; centre ; midpoint : centru : mathematics 
+central : central : adjective 
+central ; telephone exchange ; exchange : central : society 
+century : secol : time 
+certain ; sure : sigur : adjective 
+chain : lanţ : object 
+chair : scaun : house 
+championship ; title : campionat : sports 
+change ; alter ; modify : a (se) schimba : verb 
+change ; alteration ; modification : schimbare : abstract 
+character ; grapheme ; graphic symbol : caracter : linguistics 
+charge ; complaint : acuzaţie : society 
+charge ; electric charge : sarcină electrică : nature 
+cheap ; inexpensive : ieftin : adjective 
+check ; bank check ; cheque : cec : business 
+cheese : brânză : food 
+chemical ; chemic : chimic : adjective 
+chemical ; chemical substance : chimic : material 
+chemical element ; element : element chimic : material 
+chemistry ; chemical science : chimie : science 
+chief ; main ; primary ; principal ; master : principal : adjective 
+child ; kid : copil : nature 
+child ; kid ; youngster ; minor ; shaver ; nipper ; small fry ; tiddler ; tike ; tyke ; fry ; nestling : copil : family 
+chin ; mentum : bărbie : anatomy 
+chocolate : ciocolată : food 
+choice ; selection ; option ; pick : alegere : abstract 
+choose ; take ; select ; pick out : a alege : verb 
+church ; church building : biserică : city 
+cinema ; movie theater ; movie theatre ; movie house ; picture palace : cinema : city 
+circle : cerc : mathematics 
+city ; metropolis ; urban center : oraş : society 
+clandestine ; cloak-and-dagger ; hole-and-corner ; hugger-mugger ; hush-hush ; secret ; surreptitious ; undercover ; underground : secret : adjective 
+class ; form ; grade ; course : clasă : art 
+classify ; class ; sort ; assort ; sort out ; separate : a clasifica : verb 
+clean : curat : adjective 
+clear : clar : adjective 
+clock : ceas : device 
+close ; shut : a închide : verb 
+clothing ; article of clothing ; vesture ; wear ; wearable ; habiliment : haine : clothes 
+cloud : nor : nature 
+club : bâtă : object 
+club ; social club ; society ; guild ; gild ; lodge ; order : club : society 
+coal : cărbune : material 
+coat : palton : clothes 
+coffee ; java : cafea : food 
+cognition ; knowledge ; noesis : cunoaştere : education 
+coil ; whorl ; roll ; curl ; curlicue ; ringlet ; gyre ; scroll : rulou : object 
+cold : frig : adjective 
+cold ; common cold : răceală : medicine 
+coldness ; cold ; low temperature ; frigidity ; frigidness : frig : nature 
+collar ; neckband : guler : clothes 
+color ; colour ; coloring ; colouring : culoare : art 
+coloring material ; colouring material ; color ; colour : culori : art 
+come ; come up : a veni : verb 
+committee ; commission : comitet : society 
+common : obişnuit : adjective 
+common ; mutual : comun : adjective 
+common ; usual : obişnuit : adjective 
+community : comunitate : society 
+company : companie : business 
+company ; companionship ; fellowship ; society : companie : society 
+compare : a compara : verb 
+comparison ; comparing : comparare : abstract 
+competition : concurenţă : business 
+complete ; consummate : complet : adjective 
+complete ; finish : termina : verb 
+complimentary ; costless ; free ; gratis ; gratuitous : gratuit : adjective 
+component ; constituent ; element ; factor ; ingredient : element : mathematics 
+computer ; computing machine ; computing device ; data processor ; electronic computer ; information processing system : calculator : device 
+concert : concert : art 
+concluding ; final ; last ; terminal : ultim : adjective 
+condition ; status : stare : abstract 
+confront ; face up ; face : a înfrunta : verb 
+connection ; connexion ; connector ; connecter ; connective : conector : abstract 
+consequence ; effect ; outcome ; result ; event ; issue ; upshot : consecinţă : medicine 
+construct ; build ; make : a construi : verb 
+contend ; fight ; struggle : luptă : verb 
+continue ; go on ; proceed ; go along ; keep : a continua : verb 
+contract : contract : business 
+control : control : abstract 
+control ; command : a controla : verb 
+controversy ; contention ; contestation ; disputation ; disceptation ; tilt ; argument ; arguing : ceartă : mathematics 
+cook : a găti : verb 
+copy : copie : object 
+copy ; re-create : copia : verb 
+correct ; right : corect : adjective 
+cotton : bumbac : material 
+cotton ; cotton fiber ; cotton wool : bumbac : material 
+cough ; coughing : tuse : medicine 
+council : consiliu : society 
+country ; state ; land : ţară : society 
+couple ; pair ; twosome ; twain ; brace ; span ; yoke ; couplet ; distich ; duo ; duet ; dyad ; duad : pereche : number 
+course ; course of study ; course of instruction ; class : curs : education 
+court ; tribunal ; judicature : curte : society 
+cow ; moo-cow : vacă : animal 
+crack ; cleft ; crevice ; fissure ; scissure : crăpătură : abstract 
+crime ; offense ; criminal offense ; criminal offence ; offence ; law-breaking : delict : society 
+crude ; rough : brut : adjective 
+cry ; outcry ; call ; yell ; shout ; vociferation : chemare : communication 
+cry ; weep : a plânge : verb 
+culture ; civilization ; civilisation : culturã : society 
+cup : ceaşcă : food 
+cupboard ; closet : dulap : house 
+current : actual : adjective 
+current ; electric current : curent : nature 
+current ; stream : curent : nature 
+curtain ; drape ; drapery ; mantle ; pall : cortină : house 
+curve ; curved shape : curbă : art 
+customer ; client : client : business 
+cut ; cutting : croială : abstract 
+damage : a strica : verb 
+damage ; harm ; impairment : pagubă : transport 
+dance ; trip the light fantastic ; trip the light fantastic toe : a dansa : verb 
+dance band ; band ; dance orchestra : orchestră : art 
+danger : pericol : abstract 
+dangerous ; unsafe : periculos : adjective 
+dark : închis : adjective 
+data ; information : date : communication 
+date ; appointment ; engagement : întâlnire : relations 
+daughter ; girl : fiică : family 
+day ; twenty-four hours ; twenty-four hour period ; 24-hour interval ; solar day ; mean solar day : zi : nature 
+daze ; shock ; stupor : şoc : abstract 
+dead : mort : adjective 
+dead : mort : society 
+death : moarte : nature 
+death ; decease ; expiry : moarte : abstract 
+decide ; make up one's mind ; determine : a (se) hotărî : verb 
+decision ; determination ; conclusion : decizie : communication 
+decoration ; ornament ; ornamentation : ornament : object 
+degree : grad : linguistics 
+degree ; grade ; level : nivel : linguistics 
+delicate : fin : adjective 
+delicate ; fragile ; frail : delicat : adjective 
+demeanor ; demeanour ; behavior ; behaviour ; conduct ; deportment : purtare : abstract 
+democracy ; republic ; commonwealth : republică : society 
+department ; section : departament : society 
+deplorable ; distressing ; lamentable ; pitiful ; sad ; sorry : trist : adjective 
+depository financial institution ; bank ; banking concern ; banking company : bancă : city 
+describe ; depict ; draw : descrie : verb 
+desire ; want : a vrea : verb 
+desk : birou : house 
+destruction ; devastation : distrugere : abstract 
+detail ; particular ; item : detaliu : logistics 
+detect ; observe ; find ; discover ; notice : descoperi : verb 
+develop : a developa : verb 
+development ; evolution : evoluţie : nature 
+dictionary ; lexicon : dicţionar : linguistics 
+die ; decease ; perish ; go ; exit ; pass away ; expire ; pass ; kick the bucket ; cash in one's chips ; buy the farm ; conk ; give-up the ghost ; drop dead ; pop off ; choke ; croak ; snuff it : a muri : verb 
+difference : diferenţă : abstract 
+difficult ; hard : greu : adjective 
+difficulty : dificultate : abstract 
+direction : direcţie : mathematics 
+directly ; straight ; direct : direct : adverb 
+director ; manager ; managing director : director : profession 
+dirty ; dingy ; muddied ; muddy : murdar : adjective 
+dirty ; soiled ; unclean : murdar : adjective 
+discover ; find : a descoperi : verb 
+discussion ; give-and-take ; word : discuţie : communication 
+disease : boală : medicine 
+displace ; fire ; give notice ; can ; dismiss ; give the axe ; send away ; sack ; force out ; give the sack ; terminate : a concedia : verb 
+distance : distanţă : mathematics 
+diverse ; various : divers : adjective 
+diverseness ; diversity ; multifariousness ; variety : diversitate : art 
+divide ; split ; split up ; separate ; dissever ; carve up : a împărţi : verb 
+division ; partition ; partitioning ; segmentation ; sectionalization ; sectionalisation : împărţire : mathematics 
+doctor ; doc ; physician ; MD ; Dr. ; medico : medic : profession 
+dog ; domestic dog ; Canis familiaris : câine : animal 
+dominance ; ascendance ; ascendence ; ascendancy ; ascendency ; control : autoritate : abstract 
+door : uşă : house 
+doubt ; uncertainty ; incertitude ; dubiety ; doubtfulness ; dubiousness : incertitudine : communication 
+down : jos : adjective 
+down ; downwards ; downward ; downwardly : jos : adverb 
+drawer : sertar : house 
+drink ; imbibe : a bea : verb 
+drop ; drib ; driblet : picătură : object 
+dry : uscat : adjective 
+during : în timpul : preposition 
+dust : praf : material 
+duty : datorie : abstract 
+dwelling ; home ; domicile ; abode ; habitation ; dwelling house : domiciliu : house 
+each : fiecare : adjective 
+ear : ureche : anatomy 
+earlier ; before : înainte : adverb 
+early : devreme : adjective 
+earth ; ground : pământ : material 
+east : est : adjective 
+east ; due east ; eastward ; E : est : logistics 
+easy : uşor : adjective 
+economic : economic : adjective 
+economic ; economical : economic : adjective 
+economy ; economic system : economie : business 
+edge ; border : margine : mathematics 
+education : educaţie : education 
+education : educaţie : society 
+education ; instruction ; teaching ; pedagogy ; didactics ; educational activity : educaţie : education 
+effort ; elbow grease ; exertion ; travail ; sweat : efort : abstract 
+egg : ou : food 
+eight ; 8 ; viii : opt : number 
+eighteen ; 18 ; xviii : optsprezece : number 
+eighth ; 8th : optime : number 
+eighty ; 80 ; lxxx ; fourscore : optzeci : number 
+election : alegere : mathematics 
+electric ; electrical : electric : adjective 
+elementary ; simple ; uncomplicated ; unproblematic : simplu : adjective 
+elephant : elefant : animal 
+elevator ; lift : ascensor : device 
+eleven ; 11 ; xi : unsprezece : number 
+embrace ; encompass ; comprehend ; cover : a cuprinde : verb 
+encourage : a încuraja : verb 
+end ; terminal : capăt : abstract 
+energy ; free energy : energie : nature 
+engine : motor : device 
+engineering ; engineering science ; applied science ; technology : inginerie : abstract 
+enhance ; heighten ; raise : a spori : verb 
+enough ; plenty : destul : adverb 
+enter ; come in ; get into ; get in ; go into ; go in ; move into : a intra : verb 
+entertainment ; amusement : distracţie : art 
+entitle ; title : a intitula : verb 
+envelope : plic : object 
+environment : mediu : nature 
+environment ; environs ; surroundings ; surround : mediu înconjurător : nature 
+equal : egal : adjective 
+equally ; as ; every bit : ca : adverb 
+erstwhile ; former ; old ; onetime ; one-time ; quondam ; sometime : anterior : adjective 
+especial ; exceptional ; particular ; special : specific : adjective 
+establish ; found ; plant ; constitute ; institute : stabili : verb 
+even : chiar : adverb 
+even : par : adjective 
+even ; fifty-fifty : egal : adjective 
+evening ; eve ; even ; eventide : seară : time 
+event : întâmplare : abstract 
+every : fiecare : adjective 
+everything : tot : pronoun 
+evidence : probă : abstract 
+examination ; exam ; test : examen : communication 
+example ; illustration ; instance ; representative : exemplu : communication 
+exceed ; transcend ; overstep ; pass ; go past ; top : a întrece : verb 
+excellent ; first-class ; fantabulous ; splendid : excelent : adjective 
+exist ; be : a exista : verb 
+exit ; go out ; get out ; leave : a pleca : verb 
+expect ; look ; await ; wait : aştepta : verb 
+experience : experienţă : society 
+expert : expert : profession 
+explain ; explicate : explica : verb 
+express ; limited : expres : transport 
+expression ; look ; aspect ; facial expression ; face : privire : communication 
+eye ; oculus ; optic : ochi : anatomy 
+fabric ; cloth ; material ; textile : ţesătură : material 
+face ; human face : faţă : anatomy 
+fact : fapt : abstract 
+factory ; mill ; manufacturing plant ; manufactory : fabrică : city 
+fail ; neglect : a eşua : verb 
+fake ; false ; faux ; imitation ; simulated : fals : adjective 
+fall ; autumn : toamnă : nature 
+false : fals : adjective 
+false ; mistaken : fals : adjective 
+family ; family unit : familie : family 
+family ; household ; house ; home ; menage : familie : family 
+far : departe : adjective 
+farm : fermă : nature 
+fast : iute : logistics 
+fat : gras : adjective 
+fat : grăsime : material 
+father ; male parent ; begetter : tată : family 
+fatty ; fat : gras : adjective 
+fear : a-i fi teamă : verb 
+fear ; fearfulness ; fright : frică : relations 
+feather ; plume ; plumage : pană : object 
+feature ; characteristic : caracteristică : abstract 
+feel ; experience : a simţi : verb 
+feeling : impresie : communication 
+field : câmp : nature 
+fierce ; tearing ; vehement ; violent ; trigger-happy : violent : adjective 
+fifty ; 50 ; l : cincizeci : number 
+fight ; fighting ; combat ; scrap : luptă : abstract 
+fill ; fill up ; make full : a (se) umple : verb 
+finger : deget : anatomy 
+finish ; destination ; goal : scop : abstract 
+fire : incendiu : nature 
+fire ; flame ; flaming : foc : nature 
+firm ; solid : solid : adjective 
+first ; firstly ; foremost ; first of all ; first off : mai întâi : adverb 
+fiscal ; financial : financiar : adjective 
+fish : peşte : animal 
+five ; 5 ; v : cinci : number 
+fix ; prepare ; set up ; ready ; gear up ; set : a (se) pregăti : verb 
+flag : steag : object 
+flat ; level ; plane : plat : adjective 
+flight ; flying : zbor : transport 
+flim-flam ; play a joke on ; play tricks ; trick ; fob ; fox ; pull a fast one on ; play a trick on : înşela : verb 
+floor ; flooring : podea : house 
+floor ; level ; storey ; story : etaj : house 
+flower : floare : nature 
+flush ; level ; even out ; even : a egala : verb 
+fly : muscă : animal 
+fly ; wing : a zbura : verb 
+fold ; crease ; plication ; flexure ; crimp ; bend : curbă : object 
+follow : a urma : verb 
+following ; next : următor : adjective 
+food ; nutrient : hrană : food 
+foot ; human foot ; pes : picior : anatomy 
+football ; football game : fotbal : sports 
+footing ; basis ; ground : bază : mathematics 
+footstep ; pace ; step ; stride : pas : mathematics 
+for : căci : conjunction 
+force ; forcefulness ; strength : forţă : abstract 
+foreign ; strange : străin : adjective 
+forest ; wood ; woods : pădure : nature 
+forget : a uita : verb 
+forgive : a ierta : verb 
+fork : furculiţă : food 
+form : formular : society 
+form ; shape ; cast : formă : art 
+forty ; 40 ; xl ; twoscore : patruzeci : number 
+four ; 4 ; iv : patru : number 
+fourteen ; 14 ; xiv : paisprezece : number 
+fourth ; 4th ; quaternary : al patrulea : number 
+fourth dimension ; time : timp : physics 
+frame : cadru : object 
+free : liber : adjective 
+free ; liberate ; release ; unloose ; unloosen ; loose : a elibera : verb 
+frequent : frecvent : adjective 
+frequently ; often ; oftentimes ; oft ; ofttimes : frecvent : adverb 
+fresh : proaspăt : adjective 
+friend : prieten : family 
+friendly : amical : adjective 
+front ; front end ; forepart : front : abstract 
+fruit : fruct : food 
+full : plin : adjective 
+full ; total : complet : adjective 
+function ; office ; part ; role : rol : mathematics 
+function ; purpose ; role ; use : scop : linguistics 
+function ; work ; operate ; go ; run : a face : verb 
+furniture ; piece of furniture ; article of furniture : mobilier : house 
+further ; farther : mai departe : adjective 
+future : viitor : adjective 
+future ; hereafter ; futurity ; time to come : viitor : time 
+gamble ; chance ; risk ; hazard ; take chances ; adventure ; run a risk ; take a chance : a risca : verb 
+game : joc : mathematics 
+game : joc : sports 
+garage : garaj : transport 
+garden : grădină : house 
+gate : poartă : house 
+gene ; cistron ; factor : genă : anatomy 
+general : general : adjective 
+general ; full general : general : profession 
+girl ; miss ; missy ; young lady ; young woman ; fille : fată : family 
+give : a da : verb 
+glass : sticlã : material 
+glass ; drinking glass : pahar : food 
+glue ; gum ; mucilage : clei : material 
+glue ; paste : lipi : verb 
+gluey ; glutinous ; gummy ; mucilaginous ; pasty ; sticky ; viscid ; viscous : cleios : adjective 
+goal : gol : sports 
+goat ; caprine animal : capră : animal 
+gold ; Au ; atomic number 79 : aur : material 
+good : bun : adjective 
+good ; sound : solid : adjective 
+government ; authorities ; regime : guvern : society 
+gradient ; slope : gradient : mathematics 
+grain : bob : material 
+grandfather ; gramps ; granddad ; grandad ; granddaddy ; grandpa : bunic : family 
+grass : iarbă : nature 
+gray ; grayness ; grey ; greyness : gri : color 
+great : mare : adjective 
+green ; greenish ; light-green ; dark-green : verde : color 
+grey ; gray ; greyish ; grayish : gri : adjective 
+group ; grouping : grup : abstract 
+guest ; invitee : oaspete : travelling 
+guitar : chitară : object 
+gun : armă de foc : object 
+hair : păr : anatomy 
+hair ; pilus : păr : anatomy 
+hammer : ciocan : object 
+hand ; manus ; mitt ; paw : mână : anatomy 
+handle ; grip ; handgrip ; hold : mâner : object 
+hapless ; miserable ; misfortunate ; pathetic ; piteous ; pitiable ; pitiful ; poor ; wretched : sărac : adjective 
+happen ; hap ; go on ; pass off ; occur ; pass ; fall out ; come about ; take place : a se produce : verb 
+happy : fericit : adjective 
+hash out ; discuss ; talk over : a discuta : verb 
+hat ; chapeau ; lid : pălărie : clothes 
+hate ; detest : a urî : verb 
+hate ; hatred : ură : relations 
+have ; have got ; hold : a avea : verb 
+hazard ; jeopardy ; peril ; risk ; endangerment : risc : transport 
+head ; caput : cap : anatomy 
+head ; chief ; top dog : şef : society 
+health : sănătate : abstract 
+health ; wellness : sănătate : medicine 
+healthy : sănătos : adjective 
+hear : a afla : verb 
+heart ; pump ; ticker : inimă : anatomy 
+heavy : greu : adjective 
+heed ; mind ; listen : atenţie : verb 
+hello ; hullo ; hi ; howdy ; how-do-you-do : salut! : linguistics 
+help ; assist ; aid : ajuta : verb 
+her : ei : pronoun 
+here : aici : adverb 
+here ; hither : aici : adverb 
+herself : ea însăşi : pronoun 
+high : înalt : adjective 
+hill : deal : nature 
+him : -l : pronoun 
+his : ai : pronoun 
+historic period ; age : eră : time 
+history : istorie : society 
+hit ; hitting ; striking : lovitură : abstract 
+hit ; smash ; smasher ; strike ; bang : succes : art 
+hog ; pig ; grunter ; squealer ; Sus scrofa : porc : animal 
+hold ; take hold : a rezista : verb 
+hole : orificiu : abstract 
+home ; place : casă : house 
+homo ; man ; human being ; human : om : family 
+hook ; claw : cârlig : object 
+hope : a spera : verb 
+horse ; Equus caballus : cal : animal 
+hospital ; infirmary : spital : city 
+hot : cald : adjective 
+hotel : hotel : city 
+hotness ; heat ; high temperature : arşiţă : medicine 
+hour ; hr ; 60 minutes : oră : time 
+house : casă : house 
+however ; nevertheless ; withal ; still ; yet ; all the same ; even so ; nonetheless ; notwithstanding : totuşi : adverb 
+human : uman : adjective 
+humor ; humour ; sense of humor ; sense of humour : umor : communication 
+hungry : înfometat : adjective 
+husband ; hubby ; married man : soţ : family 
+ice : gheaţă : nature 
+ice ; water ice : gheaţă : material 
+idea ; thought : gîndire : communication 
+identify ; place : identifica : verb 
+if : dacă : conjunction 
+ill ; sick : bolnav : adjective 
+imitate ; copy ; simulate : a copia : verb 
+immediately ; instantly ; straightaway ; straight off ; directly ; now ; right away ; at once ; forthwith ; like a shot : imediat : adverb 
+impatient : nerăbdător : adjective 
+imperial ; majestic ; purple ; regal ; royal : regal : adjective 
+important ; of import : important : adjective 
+in ; inwards ; inward : în : adverb 
+income : venit : business 
+incorporate ; contain ; comprise : conţine : verb 
+incorrect ; wrong : gresit : adjective 
+increase ; increment : crestere : abstract 
+individual : individ : society 
+individual ; private : individual : adjective 
+industrial : industrial : adjective 
+industry ; manufacture : industrie : society 
+infinitesimal ; minute : infim : adjective 
+information ; info : informaţie : communication 
+injure ; wound : răni : verb 
+ink : cerneală : material 
+inquiry ; enquiry ; research : anchetă : abstract 
+insect : insectă : animal 
+inside ; within : în : adverb 
+institution ; establishment : institutie : society 
+instrument : instrument : device 
+insurance : asigurare : business 
+intelligent : inteligent : adjective 
+intend ; mean ; think : a intenţiona : verb 
+interest : interes : business 
+interest ; involvement : interes : communication 
+interesting : interesant : adjective 
+international : internaţional : adjective 
+internet ; net ; cyberspace : internet : mathematics 
+interview : interviu : communication 
+into : în : preposition 
+introduce ; present ; acquaint : a prezenta : verb 
+invention ; innovation ; excogitation ; conception ; design : invenţie : art 
+iron ; Fe ; atomic number 26 : fier : material 
+island : insulă : nature 
+issue : problemă : communication 
+it : it : pronoun 
+its : ei : pronoun 
+jewel ; gem ; precious stone : bijuterie : object 
+job ; task ; chore : muncã : business 
+join ; bring together : a uni : verb 
+jolt ; jar ; jounce ; shock : zdruncinătură : transport 
+journalist : ziarist : profession 
+journey ; journeying : voiaj : transport 
+judge ; justice ; jurist : judecător : profession 
+jump ; leap ; bound ; spring : a sări : verb 
+just : drept : adjective 
+keep ; maintain ; hold : a păstra : verb 
+kernel ; substance ; core ; center ; centre ; essence ; gist ; heart ; heart and soul ; inwardness ; marrow ; meat ; nub ; pith ; sum ; nitty-gritty : esenţă : abstract 
+key : cheie : house 
+key : clapă : object 
+kick : a lovi : verb 
+kick ; boot ; kicking : lovitură : abstract 
+kill : a ucide : verb 
+kind : amabil : adjective 
+kind ; sort ; form ; variety : fel : abstract 
+king ; male monarch ; Rex : rege : society 
+kiss ; buss ; osculation : sărut : relations 
+kitchen : bucătărie : house 
+knee ; knee joint ; human knee ; articulatio genus ; genu : genunchi : anatomy 
+knot : nod : object 
+lake : lac : nature 
+land ; dry land ; earth ; ground ; solid ground ; terra firma : pământ : nature 
+land ; ground ; soil : sol : material 
+land ; set down : a debarca : verb 
+language ; linguistic communication : limbă : communication 
+large ; big : mare : adjective 
+last : ultim : adjective 
+late ; belatedly ; tardily : târziu : adverb 
+law : lege : society 
+lead ; Pb ; atomic number 82 : plumb : material 
+lead ; take ; direct ; conduct ; guide : a conduce : verb 
+leader : conducător : society 
+leaf ; leafage ; foliage : frunziş : nature 
+leap ; jump ; saltation : salt : abstract 
+least ; to the lowest degree : cel mai puţin : adverb 
+leather : piele : material 
+leave : a lăsa : verb 
+leave ; leave of absence : permisie : society 
+left : stâng : adjective 
+leg : picior : anatomy 
+legal : legal : adjective 
+letter ; letter of the alphabet ; alphabetic character : scrisoare : linguistics 
+letter ; missive : scrisoare : object 
+library : bibliotecă : city 
+lie : a consta : verb 
+lie ; prevarication : minciună : communication 
+life : viaţă : nature 
+life : viaţă : time 
+light : suplu : adjective 
+light ; visible light ; visible radiation : lumină : nature 
+like ; similar : similar : adjective 
+limit ; bound ; boundary : limită : mathematics 
+line : linie : mathematics 
+lion ; king of beasts ; Panthera leo : leu : animal 
+lip : buză : anatomy 
+liquid : lichid : adjective 
+liquid : lichid : nature 
+list ; listing : listă : abstract 
+listen ; hear ; take heed : a auzi : verb 
+little : puţin : adverb 
+local : local : adjective 
+lock : a (se) încuia : verb 
+lock : broască : house 
+long : lung : adjective 
+look : a se uita : verb 
+look ; appear ; seem : a părea : verb 
+lookout ; lookout man ; sentinel ; sentry ; watch ; spotter ; scout ; picket : santinelă : profession 
+lose : a pierde : verb 
+loss : pierdere : business 
+loud : tare : adjective 
+love : dragoste : relations 
+love : iubi : verb 
+low : grav : adjective 
+lucky : norocos : adjective 
+lunch ; luncheon ; tiffin ; dejeuner : prânz : food 
+machine : maşină : device 
+magazine ; mag : revistă : object 
+mail ; mail service ; postal service ; post : poştă : communication 
+mail ; post ; send : poştă : verb 
+major : major : adjective 
+majority ; bulk : majoritate : abstract 
+make ; create : a face : verb 
+male : mascul : adjective 
+male ; male person : mascul : society 
+male child ; boy : băiat : family 
+man ; adult male : om : family 
+manage ; deal ; care ; handle : a conduce : verb 
+management : conducere : business 
+management ; direction : îndrumare : society 
+manner ; mode ; style ; way ; fashion : mod : mathematics 
+map : hartă : object 
+mark ; grade ; score : notă : education 
+marker ; marking ; mark : marker ; marker : abstract 
+market ; marketplace ; market place : piaţă : business 
+marriage ; matrimony ; union ; spousal relationship ; wedlock : căsătorie : society 
+marriage ; wedding ; marriage ceremony : nuntă : family 
+married : căsătorit : adjective 
+mass : masă : physics 
+master ; master copy ; original : original : object 
+match : vânat : sports 
+match ; fit ; correspond ; check ; jibe ; gibe ; tally ; agree : a se potrivi : verb 
+match ; lucifer ; friction match : chibrit : object 
+material : material : adjective 
+material ; stuff : material : material 
+matter : materie : material 
+matter ; affair ; thing : lucru : abstract 
+meal ; repast : masă : food 
+mean : a însemna : verb 
+mean ; mean value : medie : mathematics 
+meaning ; pregnant ; significant : important : adjective 
+means ; agency ; way : fel : abstract 
+measure ; step : măsură : abstract 
+meat : carne : food 
+medical : medical : adjective 
+meeting ; coming together : întâlnire : communication 
+member ; fellow member : membru : society 
+memory : memorie : communication 
+memory ; retention ; retentiveness ; retentivity : memorie : communication 
+mention ; advert ; bring up ; cite ; name ; refer : a menţiona : verb 
+merely ; simply ; just ; only ; but : numai : adverb 
+metallic ; metal : metalic : adjective 
+metallic element ; metal : metal : material 
+method : metodă : mathematics 
+metro ; tube ; underground ; subway system ; subway : metrou : transport 
+midnight : miez de noapte : time 
+might ; mightiness ; power : putere : abstract 
+military : militar : adjective 
+milk : lapte : food 
+million ; 1000000 ; one thousand thousand ; meg : milion : number 
+mind ; head ; brain ; psyche ; nous : minte : mathematics 
+mine : mină : object 
+minister ; government minister : ministru : profession 
+minor ; modest ; small ; small-scale ; pocket-size ; pocket-sized : mic : adjective 
+minute ; min : minut : time 
+mirror : oglindă : house 
+miss : a pierde : verb 
+mistake ; error ; fault : greşeală : communication 
+mod ; modern ; modernistic : modern : adjective 
+model : model : object 
+modern : modern : adjective 
+moisture ; wet : umiditate : nature 
+moment ; minute ; second ; instant : moment : mathematics 
+moment ; mo ; minute ; second ; bit : clipă : time 
+money : bani : business 
+monkey : maimuţă : animal 
+month : lună : transport 
+more ; more than : mai mult : adjective 
+more ; to a greater extent : mai mult : adverb 
+morning ; morn ; morning time ; forenoon : dimineaţă : time 
+mother ; female parent : mamă : family 
+motion ; movement ; move ; motility : mişcare : physics 
+mountain ; mount : munte : nature 
+mouth ; oral cavity ; oral fissure ; rima oris : gură : anatomy 
+move ; displace : a (se) mişca : verb 
+movement ; motion : mişcare : physics 
+movie ; film ; picture ; moving picture ; moving-picture show ; motion picture ; motion-picture show ; picture show ; pic ; flick : film : art 
+much : mult : adjective 
+muscle ; musculus : muşchi : anatomy 
+museum : muzeu : city 
+music : muzică : art 
+musician ; instrumentalist ; player : muzician : profession 
+my : al meu : pronoun 
+nail : cui : object 
+nail : unghie : anatomy 
+name : nume : linguistics 
+name ; call : a boteza : verb 
+narrow : îngust : adjective 
+nation ; land ; country : natiune : society 
+national : naţional : adjective 
+natural : natural : adjective 
+natural language ; tongue : limbă : linguistics 
+nature : natură : nature 
+near ; close ; nigh : aproape : adjective 
+necessary : necesar : adjective 
+necessitate ; ask ; postulate ; need ; require ; take ; involve ; call for ; demand : avea nevoie de : verb 
+neck ; cervix : gât : anatomy 
+necktie ; tie : cravată : clothes 
+need ; demand : nevoie : abstract 
+needle : andrea : medicine 
+neighbor ; neighbour : vecin : family 
+nerve ; nervus : nerv : anatomy 
+net ; network ; mesh ; meshing ; meshwork : plasă : material 
+net income ; net ; net profit ; lucre ; profit ; profits ; earnings : beneficiu : business 
+nether ; under : sub : adjective 
+new : nou : adjective 
+news ; intelligence ; tidings ; word : noutate : society 
+newspaper ; paper : ziar : object 
+nice : frumos : adjective 
+night ; nighttime ; dark : noapte : nature 
+no : nici o : adjective 
+no : nu : abstract 
+noise ; dissonance ; racket : zgomot : society 
+nor : nici : conjunction 
+normal : normal : adjective 
+north : nordic : adjective 
+north ; due north ; northward ; N : nord : logistics 
+nose ; olfactory organ : nas : anatomy 
+not ; non : nu : adverb 
+note ; annotation ; notation : notã : communication 
+nothing ; nil ; nix ; nada ; null ; aught ; cipher ; cypher ; goose egg ; naught ; zero ; zilch ; zip ; zippo : nimic : mathematics 
+now : acum : time 
+number : a numerota : verb 
+number : număr : linguistics 
+nurse : infirmieră : profession 
+nut : alună : food 
+nut : piuliţă : object 
+obtain : a obţine : verb 
+occupation ; business ; job ; line of work ; line : ocupaţie : business 
+of : a : preposition 
+offer : a oferi : verb 
+offer ; offering : ofertă : abstract 
+office ; business office : birou : business 
+officeholder ; officer : ofiţer : profession 
+oil : ulei : material 
+old : bătrân : adjective 
+olfactory property ; smell ; aroma ; odor ; odour ; scent : miros : nature 
+one ; 1 ; i ; ane : un : number 
+open ; open up : a (se) deschide : verb 
+open ; opened : deschis : adjective 
+open ; unfastened : deschis : adjective 
+open fire ; fire : a trage : verb 
+operation ; functioning ; performance : funcţionare : mathematics 
+operation ; surgery ; surgical operation ; surgical procedure ; surgical process : operaţie : medicine 
+opinion ; sentiment ; persuasion ; view ; thought : opinie : communication 
+opportunity ; chance : ocazie : abstract 
+opposite : opus : adjective 
+option ; alternative ; choice : alegere : abstract 
+or : sau : conjunction 
+orange : portocală : food 
+orange ; orangish : portocaliu : color 
+orchestra : orchestră : art 
+order : comandă : society 
+order ; monastic order : ordin : society 
+organization ; organisation : organizaţie : society 
+original : original : adjective 
+other : celălalt : adjective 
+our : nostru : pronoun 
+outburst ; burst ; flare-up : izbucnire : abstract 
+outside : afară : adverb 
+outside ; exterior : afară : mathematics 
+oven : cuptor : device 
+own ; ain : propriu : adjective 
+own ; have ; possess : a poseda : verb 
+owner ; possessor : posesor : business 
+package ; bundle ; packet ; parcel : pachet : object 
+page : pagină : object 
+pain ; hurting : durere : medicine 
+paint ; pigment : vopsea : art 
+painting ; picture : tablou : art 
+paper : hârtie : material 
+parallel : paralel : adjective 
+parent : părinte : family 
+park ; commons ; common ; green : parc : city 
+part ; portion ; component part ; component ; constituent : parte : abstract 
+part ; section ; division : divizie : mathematics 
+particular : deosebit : adjective 
+particularly ; peculiarly ; especially ; specially : mai ales : adverb 
+passenger ; rider : pasager : transport 
+passport : paşaport : object 
+past : trecut : adjective 
+past ; past times ; yesteryear : trecut : time 
+patient : pacient : medicine 
+patient : răbdător : adjective 
+pause ; intermission ; break ; interruption ; suspension : antract : time 
+pay : a achita : verb 
+payment : plată : business 
+peace : pace : abstract 
+pen : stilou : object 
+pencil : creion : object 
+people : popor : society 
+percentage ; percent ; per centum ; pct : proporţie : mathematics 
+person ; individual ; someone ; somebody ; mortal ; soul : persoanã : family 
+personal : personal : adjective 
+petroleum ; crude oil ; crude ; rock oil ; fossil oil ; oil : petrol : material 
+phase ; stage : fază : time 
+photographer ; lensman : fotograf : profession 
+physical : fizic : adjective 
+picture ; image ; icon ; ikon : imagine : art 
+piece : bucată : object 
+pilot ; airplane pilot : pilot : profession 
+pin : ac cu gămălie : object 
+pink ; pinkish : roz : color 
+pipe ; pipage ; piping : tub : object 
+plain ; field ; champaign : câmpie : nature 
+plan ; program ; programme : plan : abstract 
+plant ; flora ; plant life : plantă : house 
+plant ; works ; industrial plant : uzină : city 
+plate : farfurie : food 
+play : a se juca : verb 
+player ; participant : jucător : sports 
+pleasure ; pleasance : plãcere : abstract 
+poem ; verse form : poem : art 
+poetry ; poesy ; verse : poezie : art 
+point ; dot : punct : linguistics 
+poison : otravă : verb 
+poison ; toxicant ; poisonous substance : otravă : material 
+police ; police force ; constabulary ; law : poliţie : society 
+policeman ; police officer ; officer : poliţist : profession 
+policy : politică : society 
+polish ; smooth ; smoothen ; shine : a lustrui : verb 
+political : politic : adjective 
+politician ; politico ; pol ; political leader : politician : profession 
+populace ; public ; world : public : society 
+popular : popular : adjective 
+popular ; pop : popular : adjective 
+population : populaţie : society 
+position ; place : loc : linguistics 
+possible : posibil : adjective 
+possibly ; perchance ; perhaps ; maybe ; mayhap ; peradventure : poate : adverb 
+postage ; postage stamp ; stamp : timbru : object 
+potato ; white potato ; Irish potato ; murphy ; spud ; tater : cartof : food 
+potent ; strong ; stiff : tare : adjective 
+powder ; pulverization ; pulverisation : praf : material 
+power ; powerfulness : putere : abstract 
+practice : practică : art 
+practice ; practise ; exercise ; do : a exercita : verb 
+precisely ; exactly ; just : exact : adverb 
+present : actual : adjective 
+present : cadou : object 
+present ; nowadays : prezent : time 
+president : preşedinte : profession 
+pressure ; pressure level ; force per unit area : presiune : nature 
+prevent ; forestall ; foreclose ; preclude ; forbid : împiedica : verb 
+previous ; old : precedent : adjective 
+price : preţ : transport 
+price ; cost ; toll : preţ : business 
+price ; terms ; damage : preţ : transport 
+principle ; rule : principiu : linguistics 
+prison ; prison house : închisoare : city 
+private : personal : adjective 
+probable ; likely : probabil : adjective 
+probably ; likely ; in all likelihood ; in all probability ; belike : probabil : adverb 
+problem ; job : problemă : mathematics 
+procedure ; process : procedură : mathematics 
+process ; physical process : proces : nature 
+process ; treat : a prelucra : verb 
+produce ; make ; create : a produce : verb 
+product ; production : produs : object 
+production : producţie : abstract 
+professional : profesional : adjective 
+professional ; professional person : profesionist : profession 
+program ; programme ; computer program ; computer programme : program : abstract 
+project ; projection : proiect : abstract 
+promise ; hope : speranţă : relations 
+pronunciation : pronunţare : linguistics 
+property : proprietate : abstract 
+property ; belongings ; holding : proprietate : society 
+proposal : propunere : abstract 
+propose ; suggest ; advise : sugera : verb 
+protest : a protesta : verb 
+protest ; protestation : protest : communication 
+prototype ; paradigm ; epitome ; image : prototip : linguistics 
+public : public : travelling 
+publish ; bring out ; put out ; issue ; release : publica : verb 
+pull ; draw ; force : a trage : verb 
+pump : a pompa : verb 
+pump : pompă : device 
+punishment ; penalty ; penalization ; penalisation : pedeapsă : society 
+purple ; violet ; purplish : violet : color 
+push ; force : a împinge : verb 
+push button ; push ; button : nasture : object 
+put ; set ; place ; pose ; position ; lay : a culca : verb 
+quality : calitate : abstract 
+quality ; character ; lineament : caracter : abstract 
+question ; inquiry ; enquiry ; query ; interrogation : întrebare : linguistics 
+quiet : liniştit : adjective 
+rain ; pelting : ploaie : nature 
+rain ; rain down : a ploua : verb 
+rain ; rainfall : ploaie : nature 
+raise ; lift ; elevate ; get up ; bring up : a ridica : verb 
+range ; reach : bătaie : abstract 
+rate ; charge per unit : tarif : business 
+rate ; rank ; range ; order ; grade ; place : a aprecia : verb 
+reach ; make ; attain ; hit ; arrive at ; gain : a ajunge : verb 
+reaction : reacţie : abstract 
+ready : gata : adjective 
+real ; existent : adevărat : adjective 
+rear ; raise ; bring up ; nurture ; parent : ridica : verb 
+reason : a raţiona : verb 
+reason : cauză : communication 
+receive ; have : a primi : verb 
+recent : recent : adjective 
+recently ; late ; lately ; of late ; latterly : recent : adverb 
+record : record : abstract 
+record ; tape : a înregistra : verb 
+red ; reddish ; ruddy ; blood-red ; carmine ; cerise ; cherry ; cherry-red ; crimson ; ruby ; ruby-red ; scarlet : roşu : color 
+reduce ; cut down ; cut back ; trim ; trim down ; trim back ; cut ; bring down : a reduce : verb 
+reflect ; reverberate : a reflecta : verb 
+refuse ; reject ; pass up ; turn down ; decline : a refuza : verb 
+region ; part : regiune : nature 
+regular : obişnuit : adjective 
+relation : legătură : communication 
+relationship ; human relationship : relaţie : society 
+religion ; faith ; organized religion : religie : society 
+religion ; faith ; religious belief : încredere : society 
+remainder ; balance ; residual ; residue ; residuum ; rest : rest : business 
+remember ; retrieve ; recall ; call back ; call up ; recollect ; think : a-şi aminti : verb 
+remove ; take ; take away ; withdraw : a lua : verb 
+report : a anunţa : verb 
+represent ; stand for ; correspond : a simboliza : verb 
+representative : deputat : profession 
+request ; asking : cerere : communication 
+request ; bespeak ; call for ; quest : a cere : verb 
+research : cercetare : abstract 
+respect ; honor ; honour ; abide by ; observe : respecta : verb 
+respite ; recess ; break ; time out : pauză : abstract 
+responsibility ; responsibleness : responsabilitate : abstract 
+responsible : responsabil : adjective 
+rest ; ease ; repose ; relaxation : repaus : abstract 
+restaurant ; eating house ; eating place ; eatery : restaurant : city 
+restrict ; restrain ; trammel ; limit ; bound ; confine ; throttle : a limita : verb 
+result ; resultant ; final result ; outcome ; termination : rezultat : mathematics 
+return ; homecoming : întoarcere : abstract 
+reverse ; contrary ; opposite : opus : abstract 
+rhythm ; beat ; musical rhythm : ritm : art 
+rice : orez : food 
+right : chiar : adverb 
+right : drept : adjective 
+right : drept : society 
+rigid ; stiff : rigid : adjective 
+ring ; band : inel : clothes 
+rise ; rising ; ascent ; ascension : ascensiune : abstract 
+rival ; challenger ; competitor ; competition ; contender : concurent : business 
+river : fluviu : nature 
+road ; route : cale : transport 
+rock ; stone : piatră : nature 
+roof : acoperiş : house 
+room : cameră : house 
+root : cauză : nature 
+rope : frânghie : transport 
+rough ; unsmooth : brutal : adjective 
+round ; circular : rotund : adjective 
+rug ; carpet ; carpeting : covor : house 
+rule ; regulation : reglementare : linguistics 
+run : a alerga : verb 
+sad : trist : adjective 
+safe : seif : object 
+safe : sigur : adjective 
+sail ; canvas ; canvass ; sheet : corabie : object 
+sailor ; crewman : marinar : profession 
+salad : salată : food 
+sale : vânzare : business 
+salt : săra : verb 
+salt ; table salt ; common salt : sare : food 
+salvage ; salve ; relieve ; save : a salva : verb 
+same : acelaşi : adjective 
+sand : nisip : material 
+sandwich : sandvis : food 
+sauce : sos : food 
+save ; preserve : a economisi : verb 
+school ; schoolhouse : şcoală : city 
+science ; scientific discipline : ştiinţă : society 
+scientist : savant : profession 
+scissors ; pair of scissors : foarfece : object 
+scope ; range ; reach ; orbit ; compass ; ambit : rază de acţiune : abstract 
+screen ; cover ; covert ; concealment : capac : object 
+sea : mare : nature 
+season : anotimp : nature 
+season ; flavor ; flavour : asezona : verb 
+seat : loc : house 
+seat ; place : loc : abstract 
+second ; 2nd ; 2d : al doilea : adjective 
+second ; sec ; s : secundă : time 
+secret : secret : communication 
+secretary ; secretarial assistant : secretar : profession 
+see : a vedea : verb 
+see ; consider ; reckon ; view ; regard : a considera : verb 
+seed : sămânţă : food 
+sell : a se vinde : verb 
+sentence : propoziţie : linguistics 
+separate : separat : adjective 
+serious : serios : adjective 
+servant ; retainer : servitor : profession 
+service : serviciu : sports 
+set : mulţime : mathematics 
+set : set : sports 
+sew ; run up ; sew together ; stitch : a coase : verb 
+sex : sex : nature 
+share : a împărţi : verb 
+share ; portion ; part ; percentage : parte : society 
+she : ea : pronoun 
+sheep : oaie : animal 
+shelf : raft : house 
+ship : navã : transport 
+shirt : cămaşă : clothes 
+shoe : pantof : clothes 
+shop ; store : magazin : business 
+short : scurt : adjective 
+shout ; shout out ; cry ; call ; yell ; scream ; holler ; hollo ; squall : a striga : verb 
+show ; demo ; exhibit ; present ; demonstrate : a demonstra : verb 
+shower : duş : house 
+shroud ; enshroud ; hide ; cover : acoperi : verb 
+shut ; unopen ; closed : închis : adjective 
+side : parte : mathematics 
+sign : simbol : linguistics 
+significant ; important : important : adjective 
+silence ; quiet : linişte : abstract 
+silent ; soundless ; still : tăcut : adjective 
+silk : mătase : material 
+silver ; Ag ; atomic number 47 : argint : material 
+similar : asemănător : adjective 
+since : de : preposition 
+sincere : sincer : adjective 
+singer ; vocalist ; vocalizer ; vocaliser : cântăreţ : profession 
+single : singur : adjective 
+sink : chiuvetă : house 
+sister ; sis : sorã : family 
+situation ; state of affairs : situaţie : abstract 
+size : mărime : physics 
+skin ; tegument ; cutis : piele : anatomy 
+sky : cer : nature 
+sleep ; slumber : somn : nature 
+slice ; piece : bucată : abstract 
+slow : lent : adjective 
+slowly ; slow ; easy ; tardily : încet : adverb 
+small ; little : mic : adjective 
+smell : a mirosi : verb 
+smile : a zâmbi : verb 
+smile ; smiling ; grin ; grinning : zâmbet : abstract 
+smoke ; fume : fum : nature 
+smooth : neted : adjective 
+snake ; serpent ; ophidian : şarpe : animal 
+snow : a ninge : verb 
+snow : zăpadă : nature 
+snow ; snowfall : zăpadă : nature 
+so : asa : adverb 
+soap : săpun : material 
+soap ; lather : săpun : verb 
+society : societate : society 
+sock : şosetă : clothes 
+soft : slab : adjective 
+soldier : soldat : profession 
+solid : solid : adjective 
+sometimes : câteodată : adverb 
+son ; boy : fiu : family 
+song ; vocal : cîntec : art 
+soon ; shortly ; presently ; before long : devreme : adverb 
+sound : sunet : nature 
+soup : supă : food 
+south : sudic : adjective 
+south ; due south ; southward ; S : sud : logistics 
+space ; infinite : spaţiu : mathematics 
+sparse ; thin : rar : adjective 
+specific : specific : adjective 
+speech ; speech communication ; spoken communication ; spoken language ; language ; voice communication ; oral communication : limbă : linguistics 
+spelling : ortografie : linguistics 
+spend ; pass : a petrece : verb 
+spill ; tumble ; fall : cădere : abstract 
+spoon : lingură : food 
+spring : arc : object 
+spring ; fountain ; outflow ; outpouring ; natural spring : izvor : nature 
+spring ; springtime : primăvară : nature 
+square : pătrat : adjective 
+square ; foursquare : pătrat : mathematics 
+square ; second power : pătrat : mathematics 
+squash ; crush ; squelch ; mash ; squeeze : a strivi : verb 
+stage : scenă : object 
+stalk ; stem : tulpină : nature 
+stamp : timbru : object 
+stand ; stand up : a sta : verb 
+standard : normal : adjective 
+standard ; criterion ; measure ; touchstone : măsură : communication 
+star : stea : nature 
+state : stare : mathematics 
+state : stat : society 
+state ; province : stat : society 
+state ; say ; tell : a povesti : verb 
+station : post : society 
+steal : a fura : verb 
+steam : abur : physics 
+steel : oţel : material 
+step ; stair : treaptă : house 
+stick : baston : object 
+stomach ; tummy ; tum ; breadbasket : stomac : anatomy 
+stop ; halt : a opri : verb 
+stop ; halt : oprire : abstract 
+straight : drept : adjective 
+strange ; unusual : straniu : adjective 
+stream ; flow ; current : curent : nature 
+strong : puternic : adjective 
+structure ; construction : construcţie : house 
+student ; pupil ; educatee : student : profession 
+study : a studia : verb 
+stupid : prost : adjective 
+style : stil : art 
+stylish ; fashionable : elegant : adjective 
+subject ; topic ; theme : subiect : linguistics 
+substitution ; exchange ; commutation : schimb : abstract 
+success : succes : society 
+such : asemenea : adverb 
+sudden : brusc : adjective 
+suddenly ; all of a sudden ; of a sudden : brusc : adverb 
+sugar ; refined sugar : zahăr : food 
+sugar ; saccharify : a îndulci : verb 
+suggestion ; proposition ; proffer : propunere : abstract 
+sum ; amount ; total : cantitate : mathematics 
+summation ; addition ; plus : adunare : mathematics 
+summer ; summertime : vară : nature 
+sun ; Sun : soare : nature 
+supplant ; replace ; supersede ; supervene upon ; supercede : înlocui : verb 
+supply ; provide ; render ; furnish : furniza : verb 
+support : sprijin : abstract 
+support ; back up : sprijini : verb 
+surely ; certainly ; sure ; for sure ; for certain ; sure enough ; sure as shooting : sigur : adverb 
+surface : suprafaţă : mathematics 
+surprise : a surprinde : verb 
+surprise : surpriză : abstract 
+sweet : dulce : adjective 
+system ; scheme : sistem : linguistics 
+table ; tabular array : tabel : object 
+tail : coadă : anatomy 
+talk ; speak ; utter ; mouth ; verbalize ; verbalise : a vorbi : verb 
+tall : înalt : adjective 
+taste ; gustation ; sense of taste ; gustatory modality : gust : nature 
+taste ; savor ; savour : a gusta : verb 
+tax ; taxation ; revenue enhancement : impozit : business 
+tea : ceai : food 
+teach ; learn ; instruct : instrui : verb 
+teacher ; instructor : profesor : profession 
+team ; squad : echipă : society 
+technology ; engineering : tehnologie : society 
+television receiver ; television ; television set ; tv ; tv set ; idiot box ; boob tube ; telly ; goggle box : televiziune : device 
+ten ; 10 ; x : zece : number 
+tendency ; trend : tendinţă : abstract 
+tennis ; lawn tennis : tenis : sports 
+test ; prove ; try ; try out ; examine ; essay : a încerca : verb 
+testify ; bear witness ; prove ; evidence ; show : a dovedi : verb 
+than : ca : conjunction 
+thank ; give thanks : mulţumi : verb 
+that : acea : pronoun 
+the : -ul : article 
+theater ; theatre ; house : teatru : city 
+their : lor : pronoun 
+them : pe ei : pronoun 
+then ; so ; and so ; and then : apoi : adverb 
+theory : teorie : education 
+therefore ; hence ; thence ; thus ; so : deci : adverb 
+they : ei : pronoun 
+thick : dens : adjective 
+thick : gros : adjective 
+thin : slab : adjective 
+thin ; lean : sărac : adjective 
+thing : lucru : object 
+third ; 3rd ; tertiary : al treilea : mathematics 
+thirsty : însetat : adjective 
+thirteen ; 13 ; xiii : treisprezece : number 
+thirty ; 30 ; xxx : treizeci : number 
+this : acest : pronoun 
+thorax ; chest ; pectus : piept : anatomy 
+thousand ; one thousand ; 1000 ; M ; K ; chiliad ; G ; grand ; thou ; yard : mie : number 
+three ; 3 ; iii : trei : number 
+throat ; pharynx : gât : anatomy 
+throw : a arunca : verb 
+throw : aruncare : sports 
+thumb ; pollex : pulgar : anatomy 
+ticket : bilet : object 
+tight : strâmt : adjective 
+tired : obosit : adjective 
+title : titlu : society 
+today : azi : adverb 
+toe : deget de la picior : anatomy 
+tomato : roşie : food 
+tongue ; lingua ; glossa ; clapper : limbă : anatomy 
+tooth : dinte : anatomy 
+topographic point ; place ; spot : loc : abstract 
+torso ; trunk ; body : corp : anatomy 
+touch ; touching : atingere : abstract 
+town : oraş : society 
+trace ; draw ; line ; describe ; delineate : a desena : verb 
+track ; rail ; rails ; runway : şină : transport 
+trade : comerţ : business 
+trade ; merchandise : comerţ : verb 
+train ; develop ; prepare ; educate : antrena : verb 
+train ; railroad train : tren : transport 
+transport ; carry : a duce : verb 
+transport ; send ; ship : a transporta : verb 
+transportation ; shipping ; transport : transport : transport 
+travel ; go ; move ; locomote : a merge : verb 
+treat ; care for : a trata : verb 
+treatment ; handling : tratament : abstract 
+tree : arbore : house 
+tremble ; shiver ; shake : tremur : abstract 
+trick : truc : abstract 
+trouble ; problem : problemă : abstract 
+true : adevărat : adjective 
+truly ; genuinely ; really : de fapt : adverb 
+try ; seek ; attempt ; essay ; assay : a încerca : verb 
+twelfth ; 12th : al doisprezecelea : number 
+type : tip : abstract 
+ugly : urât : adjective 
+undertaking ; project ; task ; labor : sarcină : abstract 
+union : uniune : society 
+unit of measurement ; unit : unitate de măsură : mathematics 
+university : universitate : city 
+university : universitate : education 
+unlike ; dissimilar ; different : diferit : adjective 
+until : până : conjunction 
+unusual : neobişnuit : adjective 
+unwrap ; disclose ; let on ; bring out ; reveal ; discover ; expose ; divulge ; break ; give away ; let out : a dezvălui : verb 
+us : pe noi : pronoun 
+use ; utilize ; utilise ; apply ; employ : a folosi : verb 
+vacation ; holiday : vacanţă : travelling 
+value : importanţă : art 
+very ; really ; real ; rattling : foarte : adverb 
+village ; hamlet : sat : society 
+village ; small town ; settlement : sat : society 
+violent : violent : adjective 
+visit : vizită : abstract 
+visit ; see : a vizita : verb 
+vogue ; trend ; style : modă : abstract 
+voice ; vocalization ; vocalisation ; vocalism ; phonation ; vox : voce : communication 
+volition ; will : voinţă : abstract 
+wages ; reward ; payoff : recompensa : society 
+walk : a se plimba : verb 
+wall : perete : house 
+war ; state of war : război : society 
+warm : cald : adjective 
+wash ; launder : a (se) spăla : verb 
+watch ; view ; see ; catch ; take in : a privi : verb 
+water ; H2O : apă : material 
+wave ; moving ridge : val : nature 
+we : noi : pronoun 
+wear : uzură : abstract 
+weather ; weather condition ; conditions ; atmospheric condition : vreme : nature 
+wedding ; wedding ceremony ; nuptials ; hymeneals : nuntă : family 
+week ; calendar week : săptămână : time 
+weigh : a cântări : verb 
+weight : greutate : physics 
+well : puţ : object 
+well ; good : bine : adverb 
+west : vest : adjective 
+west ; due west ; westward ; W : spre vest : logistics 
+wet : uda : verb 
+wet : umed : adjective 
+what : ce : pronoun 
+wheel : roată : object 
+which : care : pronoun 
+whip : bici : object 
+white : alb : adjective 
+who : cine : pronoun 
+whole : tot : abstract 
+whole : tot : adjective 
+whose : cui : pronoun 
+why : de ce : adverb 
+wide ; broad : larg : adjective 
+wife ; married woman : soţie : family 
+will : voinţă : society 
+will ; testament : testament : society 
+win : victorie : sports 
+win : victorie : verb 
+wind ; air current ; current of air : vânt : nature 
+window : fereastră : house 
+wine ; vino : vin : food 
+wing : aripă : anatomy 
+winter ; wintertime : iarnă : nature 
+wire : sârmă : object 
+wise : înţelept : adjective 
+wish : a dori : verb 
+wish ; wishing ; want : chef : abstract 
+with : cu : preposition 
+woman ; adult female : femeie : family 
+wood : lemn : material 
+wool : lână : material 
+word : cuvânt : linguistics 
+work : muncă : abstract 
+work ; piece of work : operă : abstract 
+worker : muncitor : profession 
+world : lume : nature 
+write : a scrie : verb 
+writer ; author : scriitor : profession 
+writing : scriere : linguistics 
+year ; twelvemonth ; yr : an : time 
+yellow ; yellowish ; xanthous : galben : color 
+yes : da : abstract 
+young ; immature : tânăr : adjective 

@@ -1,0 +1,5 @@
+#xcxcv#xvxvx#vxvcxvcxvx <BR><img src='datafoto/20080203182454.jpg'><BR>#Sun, 03 Feb 2008 18:24:54 +0200#127.0.0.1 
+#xcxcv#o \"loooooooll\";# \"loooooooll\"; <BR><img src='datafoto/noimg.jpg'><BR>#Sun, 03 Feb 2008 18:25:32 +0200#127.0.0.1 
+#xcxcv#echo \"loooooooll\";#echo \"loooooooll\"; <BR><img src='datafoto/noimg.jpg'><BR>#Sun, 03 Feb 2008 18:29:29 +0200#127.0.0.1 
+#xcxcv#alert\'loool\')/#alert\'loool\')/ <BR><img src='datafoto/noimg.jpg'><BR>#Sun, 03 Feb 2008 18:30:20 +0200#127.0.0.1 
+#xcxcv#xzxzx#zxzxz <BR><img src='datafoto/20080203183624.jpg'><BR>#Sun, 03 Feb 2008 18:36:24 +0200#127.0.0.1 
