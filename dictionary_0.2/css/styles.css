@@ -1,16 +1,25 @@
 body {
-	background: #999;
+    background: #999;
 }
-
 
 #wrap {
-	background: #333333; padding: 3px; border-radius: 10px; margin: 20px auto 50% auto;  width: 660px
+    background: #333333;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 20px auto 50% auto;
+    width: 660px
 }
 
-#header{
-	background: #96CBD7; padding: 5px; border-radius: 10px; width: 650px
+#header {
+    background: #96CBD7;
+    padding: 5px;
+    border-radius: 10px;
+    width: 650px
 }
 
-#footer{
-	background: #FFFF00; padding: 5px; border-radius: 10px; width: 650px
+#footer {
+    background: #FFFF00;
+    padding: 5px;
+    border-radius: 10px;
+    width: 650px
 }

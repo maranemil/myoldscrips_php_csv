@@ -2,28 +2,26 @@
 // simple log for ip & date visitors version 1.0
 //  use < include ('iplog.php'); > in index.php page
 
-$ip = $REMOTE_ADDR;
-$ir = getHostByAddr($REMOTE_ADDR);
+$ip = $_SERVER["REMOTE_ADDR"];
+$ir = getHostByAddr($_SERVER["REMOTE_ADDR"]);
 //$ref =  $_SERVER["PHP_REFERER"];
 //$browser = $_SERVER["HTTP_USER_AGENT"];
-$date = date ("Ymd.H:i");
+$date    = date("Ymd.H:i");
 $filelog = date("Ymd");
 
-        $fp = fopen("maranlog/$filelog.db","a");
-        $line .= "#" . $ip;
-        $line .= "#" . $ir;
-        $line .= "#" . $date;
-        //$line .= "#" . $browser;
-		//$line .= "#" . $ref;
-        $line = str_replace("\r\n","<BR>",$line);
-        $line .= "\r\n";
-        fwrite($fp, $line);
+$fp   = fopen("maranlog/$filelog.db", "a");
+$line = "#" . $ip;
+$line .= "#" . $ir;
+$line .= "#" . $date;
+//$line .= "#" . $browser;
+//$line .= "#" . $ref;
+$line = str_replace("\r\n", "<BR>", $line);
+$line .= "\r\n";
+fwrite($fp, $line);
 
 ?>
 
-
-
-<? /*
+<?php /*
 
 $ref =  $HTTP_REFERER;
 
@@ -38,9 +36,7 @@ $ref =  $HTTP_REFERER;
 
 ?>
 
-
-
-<?
+<?php
 /*
 
 $fp = file ("logger.db");

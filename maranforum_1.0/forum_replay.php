@@ -10,16 +10,16 @@ Version..............: 1.0 Beta
 Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
-<?php include ('header.php');  ?>
+<?php include('header.php'); ?>
 
 <br><br>
 
-<? include("forum_header.php");?>
+<? include("forum_header.php"); ?>
 
-<? 
+<?
 
 $subject = $_GET['subject'];
-$page = $_GET['page'];
+$page    = $_GET['page'];
 
 echo "<center><form action='forum_write.php' method='POST' enctype='multipart/form-data'>";
 echo "<input type=hidden name=subject value='$subject'>";
@@ -34,16 +34,16 @@ echo "<br><input type=hidden name=page value='$page'>";
 ?>
 
 <?
-	$key  = rand(90000,99999);
+$key = rand(90000, 99999);
 ?>
 
-<B>Spam protection code: <?=$key?></B>
+<B>Spam protection code: <?= $key ?></B>
 
-<input type='hidden' name='checkcode1' readonly value='<?=$key?>' style='font-size:11px'>
-<input type='text'     name='checkcode2' ><BR><BR>
+<input type='hidden' name='checkcode1' readonly value='<?= $key ?>' style='font-size:11px'>
+<input type='text' name='checkcode2'><BR><BR>
 
 <?
 echo "<input type=submit name=submit value=submit style='font-size:13px;'></form><center>";
 ?>
 
-<?php include ('footer.php');  ?>
+<?php include('footer.php'); ?>

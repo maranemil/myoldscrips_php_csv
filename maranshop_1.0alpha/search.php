@@ -1,19 +1,18 @@
-<? include("header.php");?>
+<? include("header.php"); ?>
 <?
 ####################################################################################
 $query = $_GET['query'];
-if($query){
-	$tim = file("prodtable.db");
-	$sizecat = count($tim);
+if ($query) {
+   $tim     = file("prodtable.db");
+   $sizecat = count($tim);
 
-	////////////////////////////////////
-	for($i=-1; $i<$sizecat; $i++){
-		//echo $tim[$i];
-		if(stristr($tim[$i],$query)){
-			$deti = explode("#",$tim[$i]);
-		
+   ////////////////////////////////////
+   for ($i = -1; $i < $sizecat; $i++) {
+	  //echo $tim[$i];
+	  if (stristr($tim[$i], $query)) {
+		 $deti = explode("#", $tim[$i]);
 
-			echo "
+		 echo "
 			<table border='0' align='center' cellpadding='3' cellspacing='3'>
 				<tr>
 					<td bgcolor='#EEEEEE'><IMG SRC='prodimg/$deti[5]'> <BR>
@@ -23,9 +22,9 @@ if($query){
 					</td>
 					<td bgcolor='#EEEEEE' width='100%'><B>About:</B> $deti[4] </td>
 				</tr>
-			</table>"; 
-		}
-	}
+			</table>";
+	  }
+   }
 }
 ?>
-<? include("footer.php");?>
+<? include("footer.php"); ?>
