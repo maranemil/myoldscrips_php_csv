@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 
 Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
@@ -10,7 +10,7 @@ Version..............: 1.0 Beta
 Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
-<?
+<?php
 
 /* SHOW PRODUCT BY ID */
 function ShowIndexProd($number) {

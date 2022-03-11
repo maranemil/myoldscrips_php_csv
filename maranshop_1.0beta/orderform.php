@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 
 Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
@@ -10,17 +10,17 @@ Version..............: 1.0 Beta
 Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
-<? include("header.php"); ?>
+<?php include("header.php"); ?>
 
     <TABLE>
         <form action='sendorder.php' method='post'>
             <TR>
                 <TD><B>Product name:</B></TD>
-                <TD><input readonly type=text name=prodname value="<?= $_GET['prodname']; ?>"><BR></TD>
+                <TD><input readonly type=text name=prodname value="<?= $_GET['prodname'] ?>"><BR></TD>
             </TR>
             <TR>
                 <TD><B>Price:</B></TD>
-                <TD><input readonly type=text name=price value="<?= $_GET['price'] . $curency; ?>"><BR></TD>
+                <TD><input readonly type=text name=price value="<?= $_GET['price'] . $curency ?>"><BR></TD>
             </TR>
             <TR>
                 <TD>Quantity:</TD>
@@ -49,4 +49,4 @@ Contact..............: maran_emil@yahoo.com
         </form>
     </TABLE>
 
-<? include("footer.php"); ?>
+<?php include("footer.php"); ?>

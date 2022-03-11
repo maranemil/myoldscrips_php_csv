@@ -1,4 +1,4 @@
-<?
+<?php
 // simple log for ip & date visitors version 1.0
 //  use < include ('iplog.php'); > in index.php page
 
@@ -6,10 +6,10 @@ $ip = $_SERVER["REMOTE_ADDR"];
 $ir = getHostByAddr($_SERVER["REMOTE_ADDR"]);
 //$ref =  $_SERVER["PHP_REFERER"];
 //$browser = $_SERVER["HTTP_USER_AGENT"];
-$date    = date("Ymd.H:i");
+$date = date("Ymd.H:i");
 $filelog = date("Ymd");
 
-$fp   = fopen("maranlog/$filelog.db", "a");
+$fp = fopen("maranlog/$filelog.db", 'ab');
 $line = "#" . $ip;
 $line .= "#" . $ir;
 $line .= "#" . $date;

@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 
 Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
@@ -11,11 +11,11 @@ Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
 <br>
-<center>
-    <font class='rbfont2'>
+<div style="text-align: center;">
+    <strong class='rbfont2'>
         <a href="forum_index.php">| <B>back to index</B> |</a>
         <a href="forum_new.php"> <B>add new subject</B> | </a>
         <a href="forum_newposts.php"> <B>show new posts</B> | </a>
-    </font>
-</center>
+    </strong>
+</div>
 <br><br>

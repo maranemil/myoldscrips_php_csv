@@ -1,4 +1,4 @@
-<?
+<?php /** @noinspection SpellCheckingInspection */
 /*
 
 Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
@@ -10,7 +10,7 @@ Version..............: 1.0 Beta
 Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
-<? include('header.php'); ?>
+<?php include('header.php'); ?>
 
 <?php
 /////////////////////////////////////////////////////////////////////////////////
@@ -19,12 +19,12 @@ $page = $_GET['page'];
 
 // if a page isn't defined, we're on page one
 if (!isset($HTTP_GET_VARS['page'])) {
-   $page = 1;
+    $page = 1;
 }
 
 // create an array of data
 $myArray = file("myblog.db");
-$s       = sizeof($myArray);
+$s = count($myArray);
 // reverse the order of the data
 $myArray = array_reverse($myArray);
 // how many lines of data to display
@@ -40,19 +40,17 @@ $news = array_slice($myArray, $start, $display);
 <?php
 $end = $display * $page;
 
-if ($start != '0') {
-   $new_page = $page - 1;
-   $prev     = "<a href='archive.php?page=$new_page'><b> previous page</a></b></font>";
-}
-else {
-   $prev = "";
+if ($start !== '0') {
+    $new_page = $page - 1;
+    $prev = "<a href='archive.php?page=$new_page'><b> previous page</a></b></font>";
+} else {
+    $prev = "";
 }
 if ($end < $s) {
-   $new_page1 = $page + 1;
-   $next      = "<a href='archive.php?page=$new_page1'><b> next page</a></b></font>";
-}
-else {
-   $next = "";
+    $new_page1 = $page + 1;
+    $next = "<a href='archive.php?page=$new_page1'><b> next page</a></b></font>";
+} else {
+    $next = "";
 }
 ?>
     <br>
@@ -74,30 +72,29 @@ echo "
     <table align=center width=430>
         <tr>
             <td>
-			   <?
+                <?php
 
-			   $query = $_GET['query'];
+                $query = $_GET['query'];
 
-			   $r        = sizeof($myArray);
-			   $redfirst = "myblog.db";
-			   foreach ($news as $key) {
-				  $buffer = explode("#", $key);
-				  if ((strstr($buffer[2], $query)) || (strstr($buffer[3], $query))) {
-					 if (stristr($buffer[4], ".jpg")) {
-						$pic = "<img src='imgblog/$buffer[4]'>";
-					 }
-					 else {
-						$pic = "";
-					 }
+                $r = count($myArray);
+                $redfirst = "myblog.db";
+                foreach ($news as $key) {
+                    $buffer = explode("#", $key);
+                    if ((strpos($buffer[2], $query) !== false) || (strpos($buffer[3], $query) !== false)) {
+                        if (stripos($buffer[4], ".jpg") !== false) {
+                            $pic = "<img src='imgblog/$buffer[4]'>";
+                        } else {
+                            $pic = "";
+                        }
 
-					 echo "<TABLE width=470>";
-					 echo "<TR>";
-					 echo "<TD align='left'><B><a href='view.php?id=$buffer[1]'>$buffer[2] - $buffer[5] - Art Nr: $buffer[1]</a></B></TD>";
-					 echo "</TR>";
-					 echo "</TABLE><hr size=1 style='border: 1px dashed' width='95%'>";
-				  }
-			   }
-			   ?>
+                        echo "<TABLE width=470>";
+                        echo "<TR>";
+                        echo "<TD align='left'><B><a href='view.php?id=$buffer[1]'>$buffer[2] - $buffer[5] - Art Nr: $buffer[1]</a></B></TD>";
+                        echo "</TR>";
+                        echo "</TABLE><hr size=1 style='border: 1px dashed' width='95%'>";
+                    }
+                }
+                ?>
             </td>
         </tr>
     </table>
@@ -113,6 +110,6 @@ echo "
 </table>";
 ?>
 
-<? include('menu.php'); ?>
+<?php include('menu.php'); ?>
 
-<? include('footer.php'); ?>
+<?php include('footer.php'); ?>

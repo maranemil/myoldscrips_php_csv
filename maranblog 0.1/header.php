@@ -1,4 +1,4 @@
-<? include("maranxssfilter.php"); ?>
+<?php include("maranxssfilter.php"); ?>
 <title>Maran Blog Version 1</title>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">

@@ -1,7 +1,8 @@
-<? include("lib/funct_dict.php"); ?>
-<? include("lib/header.php"); ?>
+<?php /** @noinspection SpellCheckingInspection */
+include("lib/funct_dict.php"); ?>
+<?php include("lib/header.php"); ?>
 
-<?
+<?php
 
 ///////////////////////////////////////////////////////////////////////////////
 //
@@ -52,50 +53,51 @@ $sDictPath = "dicts/";        // path dict files
     <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 
     <!-- Load jQuery -->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
     <!-- //Load jQuery -->
 
     <!-- Add some events -->
     <script>
-		$(document).ready(function () {
+        $(document).ready(function () {
 
-			$("#loader").html('<img src="img/loader.gif" alt="">');
-			$('#submit').click(function () {
-				$("#loader").html('<img src="img/loader.gif" alt="">');
-			});
+            $("#loader").html('<img src="img/loader.gif" alt="">');
+            $('#submit').click(function () {
+                $("#loader").html('<img src="img/loader.gif" alt="">');
+            });
 
-			function callLoader() {
-				$("#loader").html('<img src="img/loader.gif" alt="">');
-			}
-		});
+            function callLoader() {
+                $("#loader").html('<img src="img/loader.gif" alt="">');
+            }
+        });
     </script>
 
     <div id="wrap" style="">
         <div id="header" style="">
             <!-- SeachForm -->
-            <form action="http://<?= $_SERVER['HTTP_HOST'] . "" . $_SERVER['PHP_SELF'] ?>" method="get">
+            <form action="https://<?= $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'] ?>" method="get">
 
                 <!-- <input type="text" name="query" style="" value="<?= $_GET['query'] ?>"> -->
                 <label>
-                    <input type="text" name="queryenc" style="" value="<?= htmlentities(utf8_decode($_GET['queryenc'])) ?>">
+                    <input type="text" name="queryenc" style=""
+                           value="<?= htmlentities(utf8_decode($_GET['queryenc'])) ?>">
                 </label>
                 <label>
                     <select name="languages">
-                       <? for ($i = 0; $i < count($arDictFile); $i++) { ?>
-                           <option value="<?= $i ?>" <? if ($i == $_GET["languages"]) {
-                              echo "selected='selected'";
-                           } ?> ><?= $arDictName[$i] ?></option>
-                       <? } ?>
+                        <?php for ($i = 0, $iMax = count($arDictFile); $i < $iMax; $i++) { ?>
+                            <option value="<?= $i ?>" <?php if ($i === $_GET["languages"]) {
+                                echo "selected='selected'";
+                            } ?> ><?= $arDictName[$i] ?></option>
+                        <?php } ?>
                     </select>
                 </label>
                 <!--
 			<select name="strict">
-				<option value="no" <? if ("no" == $_GET["strict"]) {
-				   echo "selected='selected'";
-				} ?> >No</option>
-				<option value="yes" <? if ("yes" == $_GET["strict"]) {
-				   echo "selected='selected'";
-				} ?> >Yes</option>
+				<option value="no" <?php if ("no" === $_GET["strict"]) {
+                    echo "selected='selected'";
+                } ?> >No</option>
+				<option value="yes" <?php if ("yes" === $_GET["strict"]) {
+                    echo "selected='selected'";
+                } ?> >Yes</option>
 			</select> -->
 
                 <input type="submit" name="submit" id="submit" value="Search" style=" " onclick="callLoader()">
@@ -103,78 +105,77 @@ $sDictPath = "dicts/";        // path dict files
             <!-- // SeachForm -->
             <div id="loader"></div>
 
-		   <?
+            <?php
 
-		   ///////////////////////////////////////////////////////////////////////////////
-		   //
-		   // * BLOCK CONFIG
-		   //
-		   ///////////////////////////////////////////////////////////////////////////////
+            ///////////////////////////////////////////////////////////////////////////////
+            //
+            // * BLOCK CONFIG
+            //
+            ///////////////////////////////////////////////////////////////////////////////
 
-		   $fileID = $_GET["languages"];                        // number of dict selected
+            $fileID = $_GET["languages"];                        // number of dict selected
 
-		   if (count($arDictFile) < $fileID) {
-			  $fileID = 1;                                    // reset value if bigger than max
-		   }
+            if (count($arDictFile) < $fileID) {
+                $fileID = 1;                                    // reset value if bigger than max
+            }
 
-		   //$strict		= $_GET["strict"];
-		   $queryenc = strtolower(trim(html_entity_decode(htmlentities(utf8_decode($_GET['queryenc']))))); // get seached word value
-		   $fileAr   = file($sDictPath . $arDictFile[$fileID]);    // select file from array
-		   $iMaxRows = count($fileAr);                            // count max entries in file selected
+            //$strict		= $_GET["strict"];
+            $queryenc = strtolower(trim(html_entity_decode(htmlentities(utf8_decode($_GET['queryenc']))))); // get seached word value
+            $fileAr = file($sDictPath . $arDictFile[$fileID]);    // select file from array
+            $iMaxRows = count($fileAr);                            // count max entries in file selected
 
-		   // init dict class
-		   $dict = new DictHelper;
+            // init dict class
+            $dict = new DictHelper;
 
-		   // show max number definitions for curent dict file selected
-		   echo "<span>Mini-dictionary. Definitions: " . $iMaxRows . "</span>";
-		   ?>
+            // show max number definitions for curent dict file selected
+            echo "<span>Mini-dictionary. Definitions: " . $iMaxRows . "</span>";
+            ?>
         </div>
 
         <div id="footer" style="">
             <table>
                 <tr>
-				   <?
-				   $i        = 0;        // init i value
-				   $response = "";    // init response value
+                    <?php
+                    $i = 0;        // init i value
+                    $response = "";    // init response value
 
-				   if ((isset($queryenc)) && strlen($queryenc) > 3) // check if we have to search something, lenght string must be bigger than 3
-				   {
-					  while ($i < $iMaxRows) // till i smaller than max counted
-					  {
-						 $i++; // increment i
-						 $buffer   = trim($fileAr[$i]);    // read line from text file
-						 $linebuff = strtolower($dict->crossUrlDecode($buffer)); // decode file utf8
+                    if ((isset($queryenc)) && strlen($queryenc) > 3) // check if we have to search something, lenght string must be bigger than 3
+                    {
+                        while ($i < $iMaxRows) // till i smaller than max counted
+                        {
+                            $i++; // increment i
+                            $buffer = trim($fileAr[$i]);    // read line from text file
+                            $linebuff = strtolower($dict->crossUrlDecode($buffer)); // decode file utf8
 
-						 if (stristr($linebuff, $dict->crossUrlDecode($queryenc))) { // if string exist in line
-							$result   = explode(":", $linebuff);    // get columns
-							$response .= $dict->printResults($result[0], $result[1], $queryenc); // build response tring
-						 }
-					  }
-				   }
+                            if (stripos($linebuff, $dict->crossUrlDecode($queryenc)) !== false) { // if string exist in line
+                                $result = explode(":", $linebuff);    // get columns
+                                $response .= $dict->printResults($result[0], $result[1], $queryenc); // build response tring
+                            }
+                        }
+                    }
 
-				   if ($response) { // if something was found display result
-					  echo $response;
-				   }
-				   else { // if not show default no results
-					  echo "no results";
-				   }
+                    if ($response) { // if something was found display result
+                        echo $response;
+                    } else { // if not show default no results
+                        echo "no results";
+                    }
 
-				   ?>
+                    ?>
                 </tr>
             </table>
         </div>
     </div>
 
     <script>
-		//$(document).ready(function() {
-		//$(function(){
+        //$(document).ready(function() {
+        //$(function(){
 
-		// hide loader on full page loaded after 1 sec
-		setTimeout(function () {
-			$("#loader").html('');
-		}, 1000);
+        // hide loader on full page loaded after 1 sec
+        setTimeout(function () {
+            $("#loader").html('');
+        }, 1000);
 
-		//});
+        //});
     </script>
 
-<? include("lib/footer.php"); ?>
+<?php include("lib/footer.php"); ?>

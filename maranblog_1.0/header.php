@@ -1,16 +1,17 @@
-<?
-/*
+<?php
+/**
+ *
+ * Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
+ * Released.............: 12.09.2006
+ * Created by...........: Emil Maran (maran-emil.de)
+ * Release type.........: Script PHP/mySQL
+ * Price................: Freeware
+ * Version..............: 1.0 Beta
+ * Contact..............: maran_emil@yahoo.com
+ * ----------------------------------------------------------------------------------*/
 
-Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
-Released.............: 12.09.2006
-Created by...........: Emil Maran (maran-emil.de)
-Release type.........: Script PHP/mySQL
-Price................: Freeware
-Version..............: 1.0 Beta
-Contact..............: maran_emil@yahoo.com
-----------------------------------------------------------------------------------*/
+include("maranxssfilter.php");
 ?>
-<? include("maranxssfilter.php"); ?>
 
 <title>Maran Blog Version 1</title>
 <head>
@@ -22,29 +23,28 @@ Contact..............: maran_emil@yahoo.com
 </head>
 
 <style>
-    A.help {
+    .help {
         cursor: help
     }
 
-    A:link {
+    a:link {
         COLOR: #FFED99;
         TEXT-DECORATION: none
     }
 
-    A:visited {
+    a:visited {
         COLOR: #FFED99;
         TEXT-DECORATION: none
     }
 
-    A:active {
+    a:active {
         COLOR: #FFED99;
         TEXT-DECORATION: none
     }
 
-    A:hover {
+    a:hover {
         COLOR: #FFED99;
         TEXT-DECORATION: underline;
-        Font: bold;
     }
 
     TABLE, TD {
@@ -76,7 +76,7 @@ Contact..............: maran_emil@yahoo.com
 
 <BR><BR>
 
-<TABLE bgcolor='#101921' width="775" border="0" align="center" cellpadding="6" cellspacing="6">
+<TABLE bgcolor='#101921' width="775" border="0" cellpadding="6" cellspacing="6">
     <TR>
         <TD>
             <CENTER>
@@ -86,6 +86,6 @@ Contact..............: maran_emil@yahoo.com
     </TR>
 </TABLE>
 
-<TABLE bgcolor='#101921' width="792" height=400 border="0" align="center" cellpadding="8" cellspacing="8">
+<TABLE bgcolor='#101921' width="792" height=400 border="0" cellpadding="8" cellspacing="8">
     <TR>
         <TD width='525'>

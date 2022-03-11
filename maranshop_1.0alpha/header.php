@@ -1,18 +1,18 @@
-<?
+<?php
 include("maranxssfilter.php");
 include("functions.php");
 ?>
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
+<html lang="">
 <head>
     <title>Demo Maran Store - Welcome</title>
 
-   <?
-   // this is your currency : can be $, Euro, ....
-   $currency = "$";
+    <?php
+    // this is your currency : can be $, Euro, ....
+    $currency = "$";
 
-   ?>
+    ?>
 
     <meta name="title" content="Demo Maran Store">
     <meta name="copyright" content="2007">
@@ -24,25 +24,27 @@ include("functions.php");
     <meta name="robots" content="All">
     <meta name="revisit-after" content="7 DAYS">
     <meta name="language" content="English">
-
     <link rel="stylesheet" href="styles.css" type="text/css">
 
 </head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<body>
 
 <div align="center">
     <table border="0" cellpadding="0" cellspacing="0" width="757">
         <tr>
-            <td background="images/top_left_bg.gif" height="11" width="547"><img src="images/spacer.gif" alt="" border="0" height="1" width="1"></td>
-            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8"></td>
-            <td background="images/top_right_bg.gif" height="11" width="202"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+            <td height="11" width="547"><img src="images/spacer.gif" alt=""
+                                             border="0" height="1" width="1"></td>
+            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8" alt=""></td>
+            <td  height="11" width="202"><img src="images/spacer.gif" border="0"
+                                                                                  height="1" width="1" alt=""></td>
         </tr>
         <tr>
-            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
+            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1" alt=""></td>
         </tr>
         <tr>
-            <td background="images/logo_bg.gif" height="83" width="547"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
-            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8"></td>
+            <td  height="83" width="547"><img src="images/spacer.gif" border="0"
+                                                                             height="1" width="1" alt=""></td>
+            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8" alt=""></td>
             <td width="202">
                 <!--// Start Search //-->
 
@@ -57,8 +59,10 @@ include("functions.php");
                                     <td>
 
                                         <form action='search.php' method=get>
-                                            <input type=text name=query style='font-size:11px'>
-                                            <input name="Submit" src="images/submit.gif" border="0" type="image">
+                                            <label>
+                                                <input type=text name=query style='font-size:11px'>
+                                            </label>
+                                            <input name="Submit" src="images/submit.gif" type="image" alt="">
                                         </form>
                                     </td>
                                     <td>&nbsp;&nbsp;</td>
@@ -74,27 +78,32 @@ include("functions.php");
             </td>
         </tr>
         <tr>
-            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
+            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1" alt=""></td>
         </tr>
         <tr>
             <td width="547">
                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tr>
-                        <td><a href="index.php"><img src="images/home_off.gif" alt="" border="0" height="35" width="71"></a></td>
-                        <td><a href="terms.php"><img src="images/tos_off.gif" alt="" border="0" height="35" width="156"></a></td>
-                        <td><a href="terms.php"><img src="images/privacy_off.gif" alt="" border="0" height="35" width="122"></a></td>
-                        <td><a href="index.php"><img src="images/itemlist_off.gif" alt="" border="0" height="35" width="91"></a></td>
-                        <td><a href="contact.php"><img src="images/contact_off.gif" alt="" border="0" height="35" width="107"></a></td>
+                        <td><a href="index.php"><img src="images/home_off.gif" alt="" border="0" height="35" width="71"></a>
+                        </td>
+                        <td><a href="terms.php"><img src="images/tos_off.gif" alt="" border="0" height="35" width="156"></a>
+                        </td>
+                        <td><a href="terms.php"><img src="images/privacy_off.gif" alt="" border="0" height="35"
+                                                     width="122"></a></td>
+                        <td><a href="index.php"><img src="images/itemlist_off.gif" alt="" border="0" height="35"
+                                                     width="91"></a></td>
+                        <td><a href="contact.php"><img src="images/contact_off.gif" alt="" border="0" height="35"
+                                                       width="107"></a></td>
                     </tr>
                 </table>
             </td>
-            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8"></td>
+            <td width="8"><img src="images/spacer.gif" border="0" height="1" width="8" alt=""></td>
             <td width="202">
 
             </td>
         </tr>
         <tr>
-            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
+            <td colspan="3" height="6"><img src="images/spacer.gif" border="0" height="6" width="1" alt=""></td>
         </tr>
     </table>
 

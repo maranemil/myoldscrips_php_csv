@@ -3,7 +3,7 @@
 
     <B><h2>MARAN BLOG 2006</h2></B><BR>
     <hr size=1 style='border: 1px dashed' width='95%'>
-    <B>Today is:</B> <BR><? echo date("r"); ?>
+    <B>Today is:</B> <BR><?php echo date("r"); ?>
     <hr size=1 style='border: 1px dashed' width='95%'>
     <BR><BR>
     <B><A HREF="index.php"> &#187; First page</A></B><BR>
@@ -23,17 +23,17 @@
         </form>
     </CENTER>
 
-   <? include("calendar.php"); ?>
+    <?php include("calendar.php"); ?>
 
     <hr size=1 style='border: 1px dashed' width='95%'>
     <TABLE width=150 align=center>
         <TR>
             <TD>
 
-			   <?php
-			   $time = time();
-			   echo generate_calendar(date('Y', $time), date('n', $time));
-			   ?>
+                <?php
+                $time = time();
+                echo generate_calendar(date('Y', $time), date('n', $time));
+                ?>
 
             </TD>
         </TR>
@@ -47,15 +47,15 @@
 
                 <B>MaranBlog Favorites Links</h2></B><BR><BR>
 
-			   <?
+                <?php
 
-			   $lnkfile = file('links.db');
-			   $lnksize = count($lnkfile);
-			   for ($i = 0; $i < $lnksize; $i++) {
-				  echo "<a href='$lnkfile[$i]' target='_new'>$lnkfile[$i]</a>";
-			   }
+                $lnkfile = file('links.db');
+                $lnksize = count($lnkfile);
+                for ($i = 0; $i < $lnksize; $i++) {
+                    echo "<a href='$lnkfile[$i]' target='_new'>$lnkfile[$i]</a>";
+                }
 
-			   ?>
+                ?>
 
             </TD>
         </TR>

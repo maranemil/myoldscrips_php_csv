@@ -1,69 +1,67 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td class="SideTableHeading" background="images/table2_top_bg.gif" height="27">Category Index</td>
+        <td class="SideTableHeading" height="27">Category Index</td>
     </tr>
     <tr>
-        <td bgcolor="#b9a993" height="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+        <td bgcolor="#b9a993" height="1"><img src="images/spacer.gif" border="0" height="1" width="1" alt=""></td>
     </tr>
     <tr>
         <td>
-
             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tr>
-                    <td bgcolor="#b9a993" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+                    <td bgcolor="#b9a993" width="1"><img src="images/spacer.gif" border="0" height="1" width="1" alt="">
+                    </td>
                     <td>
-
                         <table border="0" cellpadding="4" cellspacing="0">
                             <tr>
                                 <td>
+                                    <?php
+                                    $file = file("cat.php");
+                                    $sz = count($file);
+                                    for ($i = 0; $i < $sz; $i++) {
+                                        ?>
 
-								   <?
-								   $file = file("cat.php");
-								   $sz   = sizeof($file);
-								   for ($i = 0; $i < $sz; $i++) {
-									  ?>
-
-                                       <table border="0" cellpadding="1" cellspacing="0">
-                                           <tr>
-                                               <td valign="middle">&nbsp;&nbsp;<a href="prod.php?cat=<?= $file[$i] ?>" class="cats"> &#187; <?= $file[$i] ?></a></td>
-                                           </tr>
-                                       </table>
-
-								   <? } ?>
-
+                                        <table>
+                                            <tr>
+                                                <td>&nbsp;
+                                                    &nbsp;<a href="prod.php?cat=<?= $file[$i] ?>"
+                                                             class="cats">
+                                                        &#187; <?= $file[$i] ?></a></td>
+                                            </tr>
+                                        </table>
+                                    <?php } ?>
                                 </td>
                             </tr>
                         </table>
-
                     </td>
-                    <td bgcolor="#b9a993" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+                    <td bgcolor="#b9a993" width="1"><img src="images/spacer.gif" border="0" height="1" width="1" alt="">
+                    </td>
                 </tr>
             </table>
-
         </td>
     </tr>
     <tr>
-        <td background="images/table2_bottom_bg.gif" height="8"></td>
+        <td height="8"></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td height="6"><img src="images/spacer.gif" border="0" height="6" width="1" alt=""></td>
     </tr>
 </table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
-    </tr>
-</table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-        <td class="SideTableHeading" background="images/table1_top_bg.gif" height="28">Current Specials</td>
+        <td class="SideTableHeading" height="28">Current Specials</td>
     </tr>
     <tr>
         <td>
-            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <table>
                 <tr>
-                    <td bgcolor="#cecece" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+                    <td><img src="images/spacer.gif" border="0" height="1" width="1" alt=""></td>
                     <td>
-                        <table align="center" border="0" cellpadding="4" cellspacing="0" width="100%">
+                        <table>
                             <tr>
                                 <td valign="bottom" width="33%">
 
@@ -78,25 +76,27 @@
                         </table>
 
                     </td>
-                    <td bgcolor="#cecece" width="1"><img src="images/spacer.gif" border="0" height="1" width="1"></td>
+                    <td bgcolor="#cecece" width="1">
+                        <img src="images/spacer.gif" border="0" height="1" width="1" alt="">
+                    </td>
                 </tr>
             </table>
 
         </td>
     </tr>
     <tr>
-        <td background="images/table1_bottom_bg.gif" height="10"></td>
+        <td height="10"></td>
     </tr>
 </table>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table>
     <tr>
-        <td height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
+        <td height="6"><img src="images/spacer.gif" height="6" width="1" alt=""></td>
     </tr>
 </table>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table>
     <tr>
-        <td height="6"><img src="images/spacer.gif" border="0" height="6" width="1"></td>
+        <td height="6"><img src="images/spacer.gif" height="6" width="1" alt=""></td>
     </tr>
 </table>

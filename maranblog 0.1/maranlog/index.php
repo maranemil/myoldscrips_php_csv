@@ -20,22 +20,22 @@
             <span class="static">
 			   <?php
 
-			   $month = $_GET['month'];
-			   if ($month == "") {
-				  $month = date("Ym");
-			   }
-			   $op = -1;
-			   if ($handle = opendir('.')) {
-				  while (false !== ($file = readdir($handle))) {
-					 $op++;
-					 if ($file != "." && $file != ".." && (strstr($file, ".db")) && (strstr($file, $month))) {
-						echo " <a href='index.php?file=$file&month=$month'>$file</a><br>";
-					 }
-				  }
-				  closedir($handle);
-			   }
+               $month = $_GET['month'];
+               if ($month === "") {
+                   $month = date("Ym");
+               }
+               $op = -1;
+               if ($handle = opendir('.')) {
+                   while (false !== ($file = readdir($handle))) {
+                       $op++;
+                       if ($file !== "." && $file !== ".." && (strpos($file, ".db") !== false) && (strpos($file, $month) !== false)) {
+                           echo " <a href='index.php?file=$file&month=$month'>$file</a><br>";
+                       }
+                   }
+                   closedir($handle);
+               }
 
-			   ?>
+               ?>
         </td>
         <td width=200 bgcolor="#DDDDDD">
             <span class="static">
@@ -83,54 +83,52 @@
                     maranlog version 0.1a <br>
                     copyright @ 2005 <br><br>
                 </b>
-			   <? echo "Are " . $op . " log files stored."; ?>
+			   <?php echo "Are " . $op . " log files stored."; ?>
         </td>
         <td bgcolor="#DDDDDD" width=410>
             <span class="static">
 			   <?php
 
-			   if ($_GET['file'] == "") {
-				  exit;
-			   }
+               if ($_GET['file'] === "") {
+                   exit;
+               }
 
-			   else {
-//$_GET['file']= "s.txt"  ;
-				  $file = file($_GET["file"]);
+               //$_GET['file']= "s.txt"  ;
+               $file = file($_GET["file"]);
 
-//$file = file("s.txt");
-				  $size = sizeof($file) - 1;
+               //$file = file("s.txt");
+               $size = count($file) - 1;
 
-				  echo "<b>today hits</b>: " . $size;
-				  echo "<br>";
+               echo "<b>today hits</b>: " . $size;
+               echo "<br>";
 
-				  $i      = 0;
-				  $buffer = array();
-				  while ($i < $size) {
-					 $i++;
-					 $news = explode("#", $file[$i]);
+               $i = 0;
+               $buffer = array();
+               while ($i < $size) {
+                   $i++;
+                   $news = explode("#", $file[$i]);
 //echo "$news[1] <br>";
-					 $buffer[$i] = $news[2];
-				  }
+                   $buffer[$i] = $news[2];
+               }
 
-				  echo "<hr>";
-				  $result = array_unique($buffer);
-				  $count  = sizeof($result);
-				  echo "<b> unique visitors </b>: $count";
-//print "<pre>";
-//print_r($result) . "<br>";
-//print "</pre>";
+               echo "<hr>";
+               $result = array_unique($buffer);
+               $count = count($result);
+               echo "<b> unique visitors </b>: $count";
+               //print "<pre>";
+               //print_r($result) . "<br>";
+               //print "</pre>";
 
-				  echo "<hr>";
-				  echo "<b>visitors ip adress</b>:<br><br>";
+               echo "<hr>";
+               echo "<b>visitors ip adress</b>:<br><br>";
 
-				  foreach ($result as $key => $value) {
-					 print "$value <br>";    // $key
-				  }
-			   }
+               foreach ($result as $key => $value) {
+                   print "$value <br>";    // $key
+               }
 
-			   //http://www.wallpapers4u.com/josie01.htm
+               // https://www.wallpapers4u.com/josie01.htm
 
-			   ?>
+               ?>
         </td>
     </tr>
 </table>
@@ -141,15 +139,15 @@
             <label>
                 <textarea rows=10 cols=120 style='font-size:11px'>
 				   <?php
-				   $fn = file("refer.db");
-				   $sn = sizeof($fn);
-				   $k  = -1;
-				   while ($k < $sn) {
-					  $k++;
-					  $refx = trim(str_replace("#", "", $fn[$k]));
-					  echo "$refx \n";
-				   }
-				   ?>
+                   $fn = file("refer.db");
+                   $sn = count($fn);
+                   $k = -1;
+                   while ($k < $sn) {
+                       $k++;
+                       $refx = trim(str_replace("#", "", $fn[$k]));
+                       echo "$refx \n";
+                   }
+                   ?>
                 </textarea>
             </label>
         </td>

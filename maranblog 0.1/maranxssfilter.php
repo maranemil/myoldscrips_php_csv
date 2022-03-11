@@ -12,51 +12,51 @@
 
 /* create you array with banned words for request*/
 $arrInjection = array(
-	"UNION",
-	"SELECT",
-	"concat",
-	"user_password",
-	"char",
-	"user_name",
-	"administrators",
-	"FROM",
-	"../",
-	"etc/",
-	"script",
-	"alert",
-	"passwd",
-	"session",
-	"save_path",
-	"configuration",
-	"folder"
+    "UNION",
+    "SELECT",
+    "concat",
+    "user_password",
+    "char",
+    "user_name",
+    "administrators",
+    "FROM",
+    "../",
+    "etc/",
+    "script",
+    "alert",
+    "passwd",
+    "session",
+    "save_path",
+    "configuration",
+    "folder"
 );
 
 /* make exit if attacks are found from arrInjection */
 foreach ($arrInjection as $item) {
-   if (strstr($_SERVER["REQUEST_URI"], $item)) {
-	  exit;
-   }
+    if (strpos($_SERVER["REQUEST_URI"], $item) !== false) {
+        exit;
+    }
 }
 
 /* make exit if attacks are from external website using file txt */
 foreach ($_REQUEST as $key => $val) {
-   if (strstr($val, ".txt")) {
-	  exit;
-   }
+    if (strpos($val, ".txt") !== false) {
+        exit;
+    }
 }
 
 /* make exit if attacks are from external website  */
 foreach ($_POST as $key => $val) {
-   if (strstr($val, "http")) {
-	  exit;
-   }
+    if (strpos($val, "http") !== false) {
+        exit;
+    }
 }
 
 /* make exit if attacks are from external website  */
 foreach ($_GET as $key => $val) {
-   if (strstr($val, "http")) {
-	  exit;
-   }
+    if (strpos($val, "http") !== false) {
+        exit;
+    }
 }
 
 
@@ -65,8 +65,9 @@ foreach ($_GET as $key => $val) {
  *
  * @return bool
  */
-function isInteger($input) {
-   return preg_match('@^[-]?[0-9]+$@', $input) === 1;
+function isInteger($input)
+{
+    return preg_match('@^[-]?[0-9]+$@', $input) === 1;
 }
 
 
@@ -76,13 +77,13 @@ function isInteger($input) {
  *
  * @return bool
  */
-function isString($string) {
-   if (preg_match('^[A-Za-z_][A-Za-z_]*$', $string)) {
-	  return true;
-   }
-   else {
-	  return false;
-   }
+function isString($string)
+{
+    if (preg_match('^[A-Za-z_][A-Za-z_]*$', $string)) {
+        return true;
+    }
+
+    return false;
 }
 
 /**
@@ -91,9 +92,13 @@ function isString($string) {
  *
  * @return int
  */
-function onlyDigits($string) {
-   if (preg_replace("[^0-9]", "", $string) == $string) return 1;
-   else return 0;
+function onlyDigits($string)
+{
+    if (preg_replace("[^0-9]", "", $string) === $string) {
+        return 1;
+    }
+
+    return 0;
 }
 
 /**
@@ -102,14 +107,18 @@ function onlyDigits($string) {
  *
  * @return int
  */
-function onlyString($string) {
-   if (preg_replace("[a-zA-Z]", "", $string) == $string) return 1;
-   else return 0;
+function onlyString($string)
+{
+    if (str_replace("A-Za-z", "", $string) === $string) {
+        return 1;
+    }
+
+    return 0;
 }
 
 /* VALIDATE GET REQUESTS */
 /* make exit if id is not integer  */
 if ((!isInteger($_GET['id'])) && (isset($_GET['id']))) {
-   exit;
+    exit;
 }
 

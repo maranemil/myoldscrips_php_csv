@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 
 Homepage.............: http://maran.pamil-visions.com / http://maran-emil.de
@@ -10,7 +10,7 @@ Version..............: 1.0 Beta
 Contact..............: maran_emil@yahoo.com
 ----------------------------------------------------------------------------------*/
 ?>
-<? include("header.php"); ?>
+<?php include("header.php"); ?>
 
     <TABLE>
         <TR>
@@ -30,4 +30,4 @@ Contact..............: maran_emil@yahoo.com
         </TR>
     </TABLE>
 
-<? include("footer.php"); ?>
+<?php include("footer.php"); ?>

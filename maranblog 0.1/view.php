@@ -1,17 +1,17 @@
-<?php include('header.php'); ?>
+<?php /** @noinspection SpellCheckingInspection */
+include('header.php');
 
-<?php
+
 $id = $_GET['id'] - 1;
 
 $file = file("myblog.db");
-$size = sizeof($file);
+$size = count($file);
 
 $buffer = explode("#", $file[$id]);
-if (stristr($buffer[4], ".jpg")) {
-   $pic = "<img src='imgblog/$buffer[4]'>";
-}
-else {
-   $pic = "";
+if (stripos($buffer[4], ".jpg") !== false) {
+    $pic = "<img src='imgblog/$buffer[4]'>";
+} else {
+    $pic = "";
 }
 
 $buffer[3] = str_replace(":sm0:", "<img src='emoticons/sm0.gif'>", $buffer[3]);
@@ -59,15 +59,15 @@ $buffer[3] = str_replace(":sm41:", "<img src='emoticons/sm41.gif'>", $buffer[3])
 $buffer[3] = str_replace(":sm42:", "<img src='emoticons/sm42.gif'>", $buffer[3]);
 $buffer[3] = str_replace(":sm43:", "<img src='emoticons/sm43.gif'>", $buffer[3]);
 
-$cnt     = file("comments.db");
-$cntsize = sizeof($cnt);
+$cnt = file("comments.db");
+$cntsize = count($cnt);
 
 $kd = 0;
 for ($i = 0; $i < $cntsize; $i++) {
-   $cntbuffer = explode("#", $cnt[$i]);
-   if ($buffer[1] == $cntbuffer[1]) {
-	  $kd++;
-   }
+    $cntbuffer = explode("#", $cnt[$i]);
+    if ($buffer[1] === $cntbuffer[1]) {
+        $kd++;
+    }
 }
 
 echo "<TABLE>";
@@ -85,32 +85,29 @@ echo "<TD align='right'><BR><BR><A HREF='comments.php?id=$buffer[1]'><B>Add comm
 echo "</TR>";
 echo "</TABLE><BR><hr size=1 style='border: 1px dashed' width='95%'><BR>";
 
-?>
 
-<?php
-
-$idx   = $_GET['id'];
+$idx = $_GET['id'];
 $filex = file("comments.db");
-$sizex = sizeof($filex);
+$sizex = count($filex);
 
 for ($i = 0; $i < $sizex; $i++) {
-   $bufferx = explode("#", $filex[$i]);
-   if ($bufferx[1] == $idx) {
-	  $bufferx[3] = str_replace(array("[URL]", "[/URL]", "http://www", "."), (" "), $bufferx[3]);
-	  $bufferx[3] = substr($bufferx[3], 0, 500);
+    $bufferx = explode("#", $filex[$i]);
+    if ($bufferx[1] === $idx) {
+        $bufferx[3] = str_replace(array("[URL]", "[/URL]", "http://www", "."), (" "), $bufferx[3]);
+        $bufferx[3] = substr($bufferx[3], 0, 500);
 
-	  echo "<TABLE>";
-	  echo "<TR>";
-	  echo "<TD><B><FONT COLOR='#F03800'>$bufferx[2]</FONT><BR></TD>";
-	  echo "</TR>";
-	  echo "<TR>";
-	  echo "<TD><FONT COLOR='#E5F9FF'>$bufferx[3]</FONT></TD>";
-	  echo "</TR>";
-	  echo "<TR>";
-	  echo "<TD>$bufferx[4]</TD>";
-	  echo "</TR>";
-	  echo "</TABLE><BR>";
-   }
+        echo "<TABLE>";
+        echo "<TR>";
+        echo "<TD><B><FONT COLOR='#F03800'>$bufferx[2]</FONT><BR></TD>";
+        echo "</TR>";
+        echo "<TR>";
+        echo "<TD><FONT COLOR='#E5F9FF'>$bufferx[3]</FONT></TD>";
+        echo "</TR>";
+        echo "<TR>";
+        echo "<TD>$bufferx[4]</TD>";
+        echo "</TR>";
+        echo "</TABLE><BR>";
+    }
 }
 ?>
 
